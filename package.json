@@ -10,9 +10,10 @@
   },
   "main": "/tests",
   "type": "module",
-  "directories": {
-    "tests": "tests"
-  },
+  "files": [
+    "implementations/*.js",
+    "tests/*.js"
+  ],
   "scripts": {
     "test": "mocha tests/ --reporter @digitalbazaar/mocha-w3c-interop-reporter --reporter-options abstract=\"$PWD/abstract.hbs\",reportDir=\"$PWD/reports\",respec=\"$PWD/respecConfig.json\",title=\"VC JSON Schema Test Suite\",suiteLog='./suite.log' --timeout 15000 --preserve-symlinks",
     "lint": "eslint ."
