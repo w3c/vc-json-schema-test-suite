@@ -3,7 +3,7 @@ import {createRequire} from 'node:module';
 const require = createRequire(import.meta.url);
 const requireDir = require('require-dir');
 const dir = requireDir('./');
-export const implementations = Object.values(dir);
+const implementations = Object.values(dir);
 
 export const JsonSchemaVersions = {
   202012: '2020-12',
