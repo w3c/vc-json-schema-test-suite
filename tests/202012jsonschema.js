@@ -18,8 +18,39 @@ describe('JSON Schema 2020-12 - JsonSchema', function() {
   // run tests for each impl
   for (const i of impls) {
     describe(i.name, function() {
-      it('Should validate', function() {
-        // true.should.equals(true);
+      it('2.1  ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.', function() {
+      });
+      it('2.1  The type property MUST be JsonSchema.', function() {
+      });
+
+      it('3  Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column\'s value is yes', function() {
+      });
+
+      it('3.1.1  The $id MUST be present and its value MUST represent a valid URI-reference', function() {
+      });
+
+      // NOTE: this also covers the normative guidance in 4 -- Schemas without a $schema property are not considered valid and MUST NOT be processed.
+      it('3.1.2, 4  The $schema property MUST be present in each schema', function() {
+      });
+
+      it('4 Conformant implementers MUST support JSON Schema specification versions marked as required in the table defined (2020-12)', function() {
+      });
+
+      it('4.1. Validation of the integrity of the schema MUST be done before evaluation.', function() {
+
+      });
+
+      it('4.2. (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.', function() {
+
+      });
+
+      it('4.2. (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.', function() {
+
+      });
+
+      it('4.2. (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate. ' +
+          'Implementers MUST return this outcome when they encounter a schema whose version they do not support.', function() {
+
       });
     });
   }
