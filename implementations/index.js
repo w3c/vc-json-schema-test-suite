@@ -1,12 +1,9 @@
-import fs from 'fs';
-import path from 'path';
+import {createRequire} from 'node:module';
 
-const jsonsInDir = fs.readdirSync('./').filter((file) => path.extname(file) === '.json');
-
-export const implementations = jsonsInDir.map((file) => {
-  const fileData = fs.readFileSync(path.join('./', file));
-  return JSON.parse(fileData.toString());
-});
+const require = createRequire(import.meta.url);
+const requireDir = require('require-dir');
+const dir = requireDir('./');
+export const implementations = Object.values(dir);
 
 export const JsonSchemaVersions = {
   202012: '2020-12',
@@ -19,13 +16,11 @@ export const VcJsonSchemaTypes = {
   JsonSchemaCredential: 'JsonSchemaCredential',
 };
 
-export const implementationsWhichSupportVersionAndType = (
-    {
-      impls = implementations,
-      version,
-      type,
-    },
-) => {
+export const implementationsWhichSupportVersionAndType = ({
+  impls = implementations,
+  version,
+  type,
+}) => {
   const matchingImpls = [];
   for (const i of impls) {
     if (Object.keys(i.specs).includes(version) && i.specs[version].includes(type)) {

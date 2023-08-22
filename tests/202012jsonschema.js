@@ -1,33 +1,30 @@
 // import chai from 'chai';
 
 import {
-  implementations, implementationsWhichSupportVersionAndType, JsonSchemaVersions, VcJsonSchemaTypes,
+  implementationsWhichSupportVersionAndType, JsonSchemaVersions, VcJsonSchemaTypes,
 } from '../implementations/index.js';
 
 
 describe('JSON Schema 2020-12 - JsonSchema', function() {
-  // const impls = implementationsWhichSupportVersionAndType(
-  //     {version: JsonSchemaVersions.Draft7, type: VcJsonSchemaTypes.JsonSchema},
-  // );
-  // console.log(impls);
+  const impls = implementationsWhichSupportVersionAndType(
+      {version: JsonSchemaVersions.Draft7, type: VcJsonSchemaTypes.JsonSchema},
+  );
 
-  console.log(implementations);
+  const implNames = impls.map((i) => i.name);
+  this.matrix = true;
+  this.mreport = true;
+  this.implemented = [...implNames];
+  this.rowLabel = 'Test Name';
+  this.columnLabel = 'Implementation';
 
-  // const implNames = impls.map(i => i.name);
-  // this.matrix = true;
-  // this.mreport = true;
-  // this.implemented = [...implNames];
-  // this.rowLabel = 'Test Name';
-  // this.columnLabel = 'Implementation';
-  //
-  // // run tests for each impl
-  // for (const i of impls) {
-  //     describe(i.name, function () {
-  //         it('Should validate', function () {
-  //             (true).should.equals(true);
-  //         });
-  //     });
-  // }
+  // run tests for each impl
+  for (const i of impls) {
+    describe(i.name, function() {
+      it('Should validate', function() {
+        // true.should.equals(true);
+      });
+    });
+  }
 });
 
 
