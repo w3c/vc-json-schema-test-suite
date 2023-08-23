@@ -1,6 +1,6 @@
 {
-  "name": "test impl",
-  "docker_image": "test-image:latest",
+  "name": "sample",
+  "docker_image": "sample-image:latest",
   "specs": {
     "2020-12": [
       "JsonSchema",

@@ -45,6 +45,7 @@
     "klona": "^2.0.6",
     "mocha": "^10.2.0",
     "require-dir": "^1.2.0",
+    "shelljs": "^0.8.5",
     "uuid": "^9.0.0",
     "vc-test-suite-implementations": "github:w3c/vc-test-suite-implementations"
   },
