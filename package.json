@@ -10,16 +10,19 @@
   },
   "main": "/tests",
   "type": "module",
+  "directories": {
+    "tests": "tests"
+  },
   "files": [
-    "implementations/*.js",
+    "implementations/*",
     "tests/*.js"
   ],
   "scripts": {
-    "test": "mocha tests/ --reporter @digitalbazaar/mocha-w3c-interop-reporter --reporter-options abstract=\"$PWD/abstract.hbs\",reportDir=\"$PWD/reports\",respec=\"$PWD/respecConfig.json\",title=\"VC JSON Schema Test Suite\",suiteLog='./suite.log' --timeout 15000 --preserve-symlinks",
+    "test": "mocha tests/ --reporter @digitalbazaar/mocha-w3c-interop-reporter --reporter-options abstract=\"$PWD/abstract.hbs\",reportDir=\"$PWD/reports\",respec=\"$PWD/respecConfig.json\",title=\"VC JSON Schema Test Suite\",suiteLog='./reports/suite.log' --timeout 150000 --preserve-symlinks",
     "lint": "eslint ."
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "repository": {
     "type": "git",
@@ -29,24 +32,15 @@
     "url": "https://github.com/w3c/vc-json-schema-test-suite/issues"
   },
   "dependencies": {
-    "@digitalbazaar/did-method-key": "^5.1.0",
-    "@digitalbazaar/ecdsa-multikey": "^1.1.3",
-    "@digitalbazaar/http-client": "^3.4.1",
     "@digitalbazaar/mocha-w3c-interop-reporter": "^1.4.0",
-    "base58-universal": "^2.0.0",
     "chai": "^4.3.7",
-    "data-integrity-test-suite-assertion": "github:w3c-ccg/data-integrity-test-suite-assertion",
-    "jsonld-document-loader": "^2.0.0",
-    "klona": "^2.0.6",
     "mocha": "^10.2.0",
-    "uuid": "^9.0.0",
-    "vc-test-suite-implementations": "github:w3c/vc-test-suite-implementations"
+    "require-dir": "^1.2.0",
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {
-    "eslint": "^8.43.0",
-    "eslint-config-digitalbazaar": "^5.0.1",
-    "eslint-plugin-jsdoc": "^46.2.6",
-    "eslint-plugin-unicorn": "^47.0.0"
+    "eslint": "^8.47.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
-
