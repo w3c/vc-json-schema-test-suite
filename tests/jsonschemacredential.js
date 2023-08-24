@@ -9,9 +9,9 @@ const schemaVersions = Object.keys(JsonSchemaVersions);
 const should = chai.should();
 schemaVersions.forEach((schemaVersion) => {
   const schemaVersionName = JsonSchemaVersions[schemaVersion];
-  describe(`JsonSchema – JSON Schema ${schemaVersionName}`, function() {
+  describe(`JsonSchemaCredential – JSON Schema ${schemaVersionName}`, function() {
     const impls = implementationsWhichSupportVersionAndType(
-        {version: schemaVersionName, type: VcJsonSchemaTypes.JsonSchema});
+        {version: schemaVersionName, type: VcJsonSchemaTypes.JsonSchemaCredential});
     const implNames = impls.map((i) => i.name);
     this.matrix = true;
     this.report = true;
@@ -32,7 +32,7 @@ schemaVersions.forEach((schemaVersion) => {
         it('2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.', function() {
         });
 
-        it('2.1 The type property MUST be JsonSchema.', function() {
+        it('2.1 The type property MUST be JsonSchemaCredential.', function() {
         });
 
         it('3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column\'s value is yes', function() {
@@ -61,7 +61,7 @@ schemaVersions.forEach((schemaVersion) => {
         });
 
         it('4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate. ' +
-            'Implementers MUST return this outcome when they encounter a schema whose version they do not support.', function() {
+                    'Implementers MUST return this outcome when they encounter a schema whose version they do not support.', function() {
 
         });
       });

@@ -27,8 +27,8 @@ module.exports = {
     'react',
   ],
   'rules': {
-      'no-invalid-this': 'off',
-      'max-len': [
+    'no-invalid-this': 'off',
+    'max-len': [
       'error',
       {
         'code': 100,
