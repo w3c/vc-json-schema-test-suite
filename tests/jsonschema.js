@@ -14,7 +14,7 @@ schemaVersions.forEach((schemaVersion) => {
         {version: schemaVersionName, type: VcJsonSchemaTypes.JsonSchema});
     const implNames = impls.map((i) => i.name);
     this.matrix = true;
-    this.mreport = true;
+    this.report = true;
     this.implemented = [...implNames];
     this.rowLabel = 'Test Name';
     this.columnLabel = 'Implementation';
