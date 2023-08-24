@@ -30,7 +30,3 @@ export const implementationsWhichSupportVersionAndType = ({
   }
   return matchingImpls;
 };
-
-export const containerNameForImplementation = (implementation) => {
-  return implementations.findLast((i) => i.name === implementation).docker_image;
-};

@@ -1,16 +1,7 @@
 {
-  "name": "sample",
-  "docker_image": "sample-image:latest",
+  "name": "tbd",
   "specs": {
     "2020-12": [
-      "JsonSchema",
-      "JsonSchemaCredential"
-    ],
-    "2019-09": [
-      "JsonSchema",
-      "JsonSchemaCredential"
-    ],
-    "Draft-7": [
       "JsonSchema",
       "JsonSchemaCredential"
     ]

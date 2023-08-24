@@ -7,7 +7,7 @@ import {generateTestResult, checkTestResult, TestResult} from './testutil.js';
 const schemaVersions = Object.keys(JsonSchemaVersions);
 schemaVersions.forEach((schemaVersion) => {
   const schemaVersionName = JsonSchemaVersions[schemaVersion];
-  describe(`JSON Schema ${schemaVersionName.name} - JsonSchema`, function() {
+  describe(`JSON Schema ${schemaVersionName} - JsonSchema`, function() {
     const impls = implementationsWhichSupportVersionAndType(
         {version: schemaVersionName, type: VcJsonSchemaTypes.JsonSchema});
     const implNames = impls.map((i) => i.name);

@@ -1,6 +1,5 @@
-import shell from 'shelljs';
 import * as fs from 'fs';
-import {containerNameForImplementation} from '../implementations/index.js';
+import shell from 'shelljs';
 
 /**
  * Generate test results for a given implementation by calling its docker container with specific inputs
@@ -12,28 +11,23 @@ import {containerNameForImplementation} from '../implementations/index.js';
  */
 export async function generateTestResult(impl, jsonSchemaVersion, jsonSchemaType, testNumber) {
   const schemaType = jsonSchemaType.toLowerCase();
-  const containerName = containerNameForImplementation(impl);
   const schemaFile = `${testNumber}-schema.json`;
   const credentialFile = `${testNumber}-credential.json`;
   const outputFile = `${testNumber}-${impl}.json`;
 
   const command = `
-IMPLEMENTATION=${containerName}
-FORMAT=${schemaType}
-SCHEMA=/tests/input/${schemaType}/${jsonSchemaVersion}/${schemaFile}
-CREDENTIAL=/tests/input/${schemaType}/${jsonSchemaVersion}/${credentialFile}
-OUTPUT=/tests/input/${schemaType}/${jsonSchemaVersion}/${outputFile}
-
-docker-compose run -d $IMPLEMENTATION \
+docker-compose -f ./implementations/docker-compose.yml \
+run -d ${impl} \
 validate \
---format $FORMAT \
---schema $SCHEMA \
---credential $CREDENTIAL \
---output $OUTPUT
+--format ${jsonSchemaType} \
+--schema /tests/input/${schemaType}/${jsonSchemaVersion}/${schemaFile} \
+--credential /tests/input/${schemaType}/${jsonSchemaVersion}/${credentialFile} \
+--output /tests/output/${schemaType}/${jsonSchemaVersion}/${outputFile}
 `;
 
   console.log(`${command}`);
-  const {code, stdout} = shell.exec(command, {silent: true});
+  shell.set('-e');
+  const {code, stdout} = shell.exec(command, {silent: false});
   if (code !== 0) {
     console.warn(stdout);
   }
