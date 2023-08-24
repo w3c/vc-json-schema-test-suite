@@ -7,9 +7,9 @@ import shell from 'shelljs';
  * @param{string} jsonSchemaVersion the version of JSON Schema to test
  * @param{string} jsonSchemaType the type (`JsonSchema` or `JsonSchemaCredential`) to test
  * @param{string} testNumber the test number to run
- * @return {Promise<void>} nothing
+ * @return {void} nothing
  */
-export async function generateTestResult(impl, jsonSchemaVersion, jsonSchemaType, testNumber) {
+export function generateTestResult(impl, jsonSchemaVersion, jsonSchemaType, testNumber) {
   const schemaType = jsonSchemaType.toLowerCase();
   const schemaFile = `${testNumber}-schema.json`;
   const credentialFile = `${testNumber}-credential.json`;
@@ -26,7 +26,6 @@ validate \
 `;
 
   console.log(`${command}`);
-  shell.set('-e');
   const {code, stdout} = shell.exec(command, {silent: false});
   if (code !== 0) {
     console.warn(stdout);
@@ -46,9 +45,9 @@ export const TestResult = {
  * @param{string} jsonSchemaVersion the version of JSON Schema to lookup
  * @param{string} jsonSchemaType the type (`JsonSchema` or `JsonSchemaCredential`) to lookup
  * @param{string} testNumber the test number to check
- * @return {Promise<string>} the test result as one of {@link TestResult} or {@link TestResult.Error} if the test result file could not be read
+ * @return {string} the test result as one of {@link TestResult} or {@link TestResult.Error} if the test result file could not be read
  */
-export async function checkTestResult(impl, jsonSchemaVersion, jsonSchemaType, testNumber) {
+export function checkTestResult(impl, jsonSchemaVersion, jsonSchemaType, testNumber) {
   const schemaType = jsonSchemaType.toLowerCase();
   const outputFile = `./tests/output/${schemaType}/${jsonSchemaVersion}/${testNumber}-${impl}.json`;
   let jsonData;
@@ -60,4 +59,4 @@ export async function checkTestResult(impl, jsonSchemaVersion, jsonSchemaType, t
   }
   const data = JSON.parse(jsonData);
   return TestResult[data.result] || TestResult.error;
-};
+}
