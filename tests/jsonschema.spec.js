@@ -24,7 +24,8 @@ schemaVersions.forEach((schemaVersion) => {
           await generateTestResult(i.name, schemaVersionName, VcJsonSchemaTypes.JsonSchema, '1');
           this.test.cell = {columnId: i.name, rowId: this.test.title};
           const result = await checkTestResult(i.name, schemaVersionName, VcJsonSchemaTypes.JsonSchema, '1');
-          should().equal(result, TestResult.Success);
+          console.log(`\nRESULT!!! ${result}\n`);
+          should().equal(result, TestResult.success);
         });
 
         it('2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.', function() {

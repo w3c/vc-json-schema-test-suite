@@ -34,10 +34,10 @@ validate \
 }
 
 export const TestResult = {
-  Success: 'success',
-  Failure: 'failure',
-  Indeterminate: 'indeterminate',
-  Error: 'error',
+  success: 'success',
+  failure: 'failure',
+  indeterminate: 'indeterminate',
+  error: 'error',
 };
 
 /**
@@ -46,17 +46,18 @@ export const TestResult = {
  * @param{string} jsonSchemaVersion the version of JSON Schema to lookup
  * @param{string} jsonSchemaType the type (`JsonSchema` or `JsonSchemaCredential`) to lookup
  * @param{string} testNumber the test number to check
- * @return {Promise<TestResult>} the test result as one of {@link TestResult} or {@link TestResult.Error} if the test result file could not be read
+ * @return {Promise<string>} the test result as one of {@link TestResult} or {@link TestResult.Error} if the test result file could not be read
  */
 export async function checkTestResult(impl, jsonSchemaVersion, jsonSchemaType, testNumber) {
   const schemaType = jsonSchemaType.toLowerCase();
-  const outputFile = `/tests/output/${schemaType}/${jsonSchemaVersion}/${testNumber}-${impl}.json`;
+  const outputFile = `./tests/output/${schemaType}/${jsonSchemaVersion}/${testNumber}-${impl}.json`;
   let jsonData;
   try {
     jsonData = fs.readFileSync(outputFile);
   } catch (err) {
-    return TestResult.Error;
+    console.log(`\nError reading test result: ${err}\n`);
+    return TestResult.error;
   }
-  const data = JSON.parse(jsonData.toString());
-  return TestResult[data.result] || TestResult.Error;
+  const data = JSON.parse(jsonData);
+  return TestResult[data.result] || TestResult.error;
 };

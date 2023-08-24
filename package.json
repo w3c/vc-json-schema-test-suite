@@ -31,36 +31,16 @@
   "bugs": {
     "url": "https://github.com/w3c/vc-json-schema-test-suite/issues"
   },
-  "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "moduleResolution": "node"
-  },
   "dependencies": {
-    "@digitalbazaar/did-method-key": "^5.1.0",
-    "@digitalbazaar/ecdsa-multikey": "^1.1.3",
-    "@digitalbazaar/http-client": "^3.4.1",
     "@digitalbazaar/mocha-w3c-interop-reporter": "^1.4.0",
-    "@yimura/import-dir": "^0.1.12",
-    "app-root-path": "^3.1.0",
-    "base58-universal": "^2.0.0",
     "chai": "^4.3.7",
-    "data-integrity-test-suite-assertion": "github:w3c-ccg/data-integrity-test-suite-assertion",
-    "jsh": "^0.43.0",
-    "jsonld-document-loader": "^2.0.0",
-    "klona": "^2.0.6",
     "mocha": "^10.2.0",
     "require-dir": "^1.2.0",
-    "shelljs": "^0.8.5",
-    "uuid": "^9.0.0",
-    "vc-test-suite-implementations": "github:w3c/vc-test-suite-implementations"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {
     "eslint": "^8.47.0",
-    "eslint-config-digitalbazaar": "^5.0.1",
     "eslint-config-google": "^0.14.0",
-    "eslint-plugin-jsdoc": "^46.2.6",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-unicorn": "^47.0.0"
+    "eslint-plugin-react": "^7.33.2"
   }
 }
