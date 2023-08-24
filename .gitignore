@@ -1,6 +1,12 @@
 # IDE
 .idea
 
+# Reports
+reports/*.html
+
+# Output
+tests/output/*/*/*.json
+
 # Logs
 logs
 *.log
