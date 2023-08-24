@@ -3,7 +3,8 @@ import {createRequire} from 'node:module';
 const require = createRequire(import.meta.url);
 const requireDir = require('require-dir');
 const dir = requireDir('./');
-const implementations = Object.values(dir);
+
+export const implementations = Object.values(dir);
 
 export const JsonSchemaVersions = {
   202012: '2020-12',
@@ -29,6 +30,7 @@ export const implementationsWhichSupportVersionAndType = ({
   }
   return matchingImpls;
 };
+
 export const containerNameForImplementation = (implementation) => {
   return implementations.findLast((i) => i.name === implementation).docker_image;
 };
