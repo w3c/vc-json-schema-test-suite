@@ -21,26 +21,14 @@ func getCredentialFromFile(filePath string) (*credential.VerifiableCredential, e
 	return &cred, nil
 }
 
-func getSchemaFromFile(format, filePath string) (*schema.JSONSchema, error) {
-	var s schema.JSONSchema
-	if format == JSONSchemaCredentialType {
-		schemaCred, err := getCredentialFromFile(filePath)
-		if err != nil {
-			return nil, errors.Wrap(err, "could not get schema credential from file")
-		}
-		jsonSchema, ok := schemaCred.CredentialSubject[credential.VerifiableCredentialJSONSchemaProperty]
-		if !ok {
-			return nil, errors.New("credential does not contain json schema")
-		}
-		s = jsonSchema.(map[string]any)
-	} else {
-		bytes, err := os.ReadFile(filePath)
-		if err != nil {
-			return nil, errors.Wrapf(err, "could not read vp from file: %s", filePath)
-		}
-		if err = json.Unmarshal(bytes, &s); err != nil {
-			return nil, errors.Wrap(err, "could not unmarshal schema")
-		}
+func getSchemaFromFile(format, filePath string) (*schema.VCJSONSchema, error) {
+	var s schema.VCJSONSchema
+	bytes, err := os.ReadFile(filePath)
+	if err != nil {
+		return nil, errors.Wrapf(err, "could not read vp from file: %s", filePath)
+	}
+	if err = json.Unmarshal(bytes, &s); err != nil {
+		return nil, errors.Wrap(err, "could not unmarshal schema")
 	}
 	return &s, nil
 }

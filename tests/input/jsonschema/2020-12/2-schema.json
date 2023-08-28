@@ -1,8 +1,8 @@
 {
-  "$id": "https://example.com/schemas/email.json",
-  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "https://example.com/schemas/bad.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "EmailCredential",
-  "description": "EmailCredential using JsonSchema",
+  "description": "ID does not match the associated credential",
   "type": "object",
   "properties": {
     "credentialSubject": {
