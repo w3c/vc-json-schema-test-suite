@@ -1,6 +1,9 @@
 # IDE
 .idea
 
+# MacOS
+*.DS_Store
+
 # Reports
 reports/*.html
 
