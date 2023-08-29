@@ -1,9 +1,0 @@
-version: "3.9"
-services:
-  tbd:
-    image: tbd/vc-json-schema-test-suite
-    build:
-      context: ./tbd
-      dockerfile: Dockerfile
-    volumes:
-      - ../tests:/tests
