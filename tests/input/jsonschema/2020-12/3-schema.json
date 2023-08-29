@@ -1,8 +1,7 @@
 {
-  "$id": "https://example.com/schemas/bad.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "EmailCredential",
-  "description": "bad $id",
+  "description": "$id not present",
   "type": "object",
   "properties": {
     "credentialSubject": {
