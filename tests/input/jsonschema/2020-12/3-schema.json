@@ -1,8 +1,7 @@
 {
-  "$id": "https://example.com/schemas/email.json",
-  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "EmailCredential",
-  "description": "EmailCredential using JsonSchema",
+  "description": "$id not present",
   "type": "object",
   "properties": {
     "credentialSubject": {

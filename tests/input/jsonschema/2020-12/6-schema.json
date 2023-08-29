@@ -1,0 +1,20 @@
+{
+  "$id": "https://example.com/schemas/first-name.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "FirstNameCredential",
+  "description": "First Name using JsonSchema",
+  "type": "object",
+  "properties": {
+    "credentialSubject": {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "firstName"
+      ]
+    }
+  }
+}

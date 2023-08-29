@@ -3,7 +3,7 @@
     "https://www.w3.org/ns/credentials/v2",
     "https://www.w3.org/ns/credentials/examples/v2"
   ],
-  "id": "https://example.com/credentials/3734",
+  "id": "bad",
   "type": ["VerifiableCredential", "JsonSchemaCredential"],
   "issuer": "https://example.com/issuers/14",
   "issuanceDate": "2010-01-01T19:23:24Z",
@@ -14,10 +14,9 @@
   },
   "credentialSubject": {
     "id": "https://example.com/schemas/email-credential-schema.json",
-    "type": "JsonSchema",
     "jsonSchema": {
       "$id": "https://example.com/schemas/email-credential-schema.json",
-      "$schema": "https://json-schema.org/draft-07/schema#",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
       "name": "EmailCredential",
       "description": "EmailCredential using JsonSchemaCredential",
       "type": "object",

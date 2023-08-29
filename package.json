@@ -19,7 +19,8 @@
   ],
   "scripts": {
     "test": "mocha tests/ --reporter @digitalbazaar/mocha-w3c-interop-reporter --reporter-options abstract=\"$PWD/abstract.hbs\",reportDir=\"$PWD/reports\",respec=\"$PWD/respecConfig.json\",title=\"VC JSON Schema Test Suite\",suiteLog='./reports/suite.log' --timeout 150000 --preserve-symlinks",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "clean": "find tests/output -name \"*.json\" -type f -delete"
   },
   "engines": {
     "node": ">=20"

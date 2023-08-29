@@ -16,8 +16,8 @@
     "id": "https://example.com/schemas/email-credential-schema.json",
     "type": "JsonSchema",
     "jsonSchema": {
-      "$id": "https://example.com/schemas/email-credential-schema.json",
-      "$schema": "https://json-schema.org/draft-07/schema#",
+      "$id": "bad",
+      "$schema": "https://json-schema.org/draft/2019-09/schema",
       "name": "EmailCredential",
       "description": "EmailCredential using JsonSchemaCredential",
       "type": "object",

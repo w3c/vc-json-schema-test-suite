@@ -3,7 +3,7 @@ module github.com/TBD54566975/vc-json-schema-test-suite
 go 1.21
 
 require (
-	github.com/TBD54566975/ssi-sdk v0.0.4-alpha.0.20230818212001-6e1043316e75
+	github.com/TBD54566975/ssi-sdk v0.0.4-alpha.0.20230828194220-c5f453c74eb0
 	github.com/pkg/errors v0.9.1
 )
 
@@ -31,6 +31,7 @@ require (
 	github.com/lestrrat-go/iter v1.0.2 // indirect
 	github.com/lestrrat-go/jwx/v2 v2.0.12 // indirect
 	github.com/lestrrat-go/option v1.0.1 // indirect
+	github.com/magefile/mage v1.15.0 // indirect
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/multiformats/go-base32 v0.1.0 // indirect
 	github.com/multiformats/go-base36 v0.1.0 // indirect
@@ -47,6 +48,7 @@ require (
 	golang.org/x/crypto v0.12.0 // indirect
 	golang.org/x/net v0.10.0 // indirect
 	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/term v0.11.0 // indirect
 	golang.org/x/text v0.12.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

@@ -1,8 +1,8 @@
 {
-  "$id": "https://example.com/schemas/email.json",
+  "$id": "not-a-uri",
   "$schema": "https://json-schema.org/draft/2019-09/schema",
   "name": "EmailCredential",
-  "description": "EmailCredential using JsonSchema",
+  "description": "$id is not a URI",
   "type": "object",
   "properties": {
     "credentialSubject": {
