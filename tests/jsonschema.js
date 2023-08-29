@@ -3,7 +3,8 @@ import chai from 'chai';
 import {
   implementationsWhichSupportVersionAndType, JsonSchemaVersions, VcJsonSchemaTypes,
 } from '../implementations/index.js';
-import {generateTestResults, checkTestResults, TestResult} from './testutil.js';
+import {generateTestResults, checkTestResults} from './testutil.js';
+import {TestResult} from './testmapping.js';
 
 const schemaVersions = Object.keys(JsonSchemaVersions);
 const should = chai.should();

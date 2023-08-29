@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import shell from 'shelljs';
+import {JsonSchemaCredentialTestMapping, JsonSchemaTestMapping, TestResult} from './testmapping.js';
 
 /**
  * Generate test results for a given implementation by calling its docker container with specific inputs
@@ -13,12 +14,12 @@ export async function generateTestResults(impl, jsonSchemaVersion, jsonSchemaTyp
   const schemaType = jsonSchemaType.toLowerCase();
   const tests = () => {
     if (jsonSchemaType === 'JsonSchemaCredential') {
-      return jsonSchemaCredentialTestMapping[testName];
+      return JsonSchemaCredentialTestMapping[testName];
     }
-    return jsonSchemaTestMapping[testName];
+    return JsonSchemaTestMapping[testName];
   };
 
-  for (const test of tests) {
+  for (const test of tests()) {
     const testNumber = test.number;
     const schemaFile = `${test.schema_number}-schema.json`;
     const credentialFile = `${test.cred_number}-credential.json`;
@@ -40,7 +41,7 @@ validate \
       console.warn(stdout);
     }
   }
-  await sleep(300); // Sleep for 300 milliseconds (0.3 seconds)
+  await sleep(150); // Sleep for 150 milliseconds (0.15 seconds)
 }
 
 /**
@@ -51,13 +52,6 @@ validate \
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
-
-export const TestResult = {
-  success: 'success',
-  failure: 'failure',
-  indeterminate: 'indeterminate',
-  error: 'error',
-};
 
 /**
  * Check the test results for a given implementation and return the result as one of {@link TestResult}
@@ -71,12 +65,12 @@ export async function checkTestResults(impl, jsonSchemaVersion, jsonSchemaType, 
   const schemaType = jsonSchemaType.toLowerCase();
   const tests = () => {
     if (jsonSchemaType === 'JsonSchemaCredential') {
-      return jsonSchemaCredentialTestMapping[testName];
+      return JsonSchemaCredentialTestMapping[testName];
     }
-    return jsonSchemaTestMapping[testName];
+    return JsonSchemaTestMapping[testName];
   };
 
-  for (const test of tests) {
+  for (const test of tests()) {
     const outputFile = `./tests/output/${schemaType}/${jsonSchemaVersion}/${test.number}-${impl}.json`;
     let jsonData;
     try {
@@ -92,239 +86,3 @@ export async function checkTestResults(impl, jsonSchemaVersion, jsonSchemaType, 
   }
   return TestResult.success;
 }
-
-const jsonSchemaTestMapping = {
-  '2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.': [
-    {
-      'number': 1,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': 'URL identifies associated schema',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 2,
-      'cred_number': 1,
-      'schema_number': 2,
-      'description': 'URL does not identify associated schema',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '2.1 The type property MUST be JsonSchema.': [
-    {
-      'number': 3,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': 'type property is JsonSchema',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 4,
-      'cred_number': 2,
-      'schema_number': 1,
-      'description': 'type property is not JsonSchema',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema': [
-    {
-      'number': 5,
-      'description': 'credentialSubject contains type and jsonSchema properties',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 6,
-      'description': 'credentialSubject does not contain type property',
-      'expected_result': TestResult.failure,
-    },
-    {
-      'number': 7,
-      'description': 'credentialSubject does not contain jsonSchema property',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference': [
-    {
-      'number': 8,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': '$id is present and valid',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 9,
-      'cred_number': 1,
-      'schema_number': 3,
-      'description': '$id is not present',
-      'expected_result': TestResult.failure,
-    },
-    {
-      'number': 10,
-      'cred_number': 1,
-      'schema_number': 4,
-      'description': '$id is not valid',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '3.1.2, 4 The $schema property MUST be present in each schema': [
-    {
-      'number': 11,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': '$schema is present',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 12,
-      'cred_number': 1,
-      'schema_number': 5,
-      'description': '$schema is not present',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.': [
-    {
-      'number': 13,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': 'Validation succeeds',
-      'expected_result': TestResult.success,
-    },
-  ],
-  '4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.': [
-    {
-      'number': 14,
-      'cred_number': 1,
-      'schema_number': 6,
-      'description': 'Validation fails',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.': [
-    {
-      'number': 15,
-      'cred_number': 1,
-      'schema_number': 7,
-      'description': 'Validation is indeterminate',
-      'expected_result': TestResult.indeterminate,
-    },
-  ],
-};
-
-const jsonSchemaCredentialTestMapping = {
-  '2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.': [
-    {
-      'number': 1,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': 'URL identifies associated schema',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 2,
-      'cred_number': 1,
-      'schema_number': 2,
-      'description': 'URL does not identify associated schema',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '2.1 The type property MUST be JsonSchemaCredential.': [
-    {
-      'number': 3,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': 'type property is JsonSchemaCredential',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 4,
-      'cred_number': 2,
-      'schema_number': 1,
-      'description': 'type property is not JsonSchemaCredential',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema': [
-    {
-      'number': 5,
-      'description': 'credentialSubject contains type and jsonSchema properties',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 6,
-      'description': 'credentialSubject does not contain type property',
-      'expected_result': TestResult.failure,
-    },
-    {
-      'number': 7,
-      'description': 'credentialSubject does not contain jsonSchema property',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference': [
-    {
-      'number': 8,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': '$id is present and valid',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 9,
-      'cred_number': 1,
-      'schema_number': 3,
-      'description': '$id is not present',
-      'expected_result': TestResult.failure,
-    },
-    {
-      'number': 10,
-      'cred_number': 1,
-      'schema_number': 4,
-      'description': '$id is not valid',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '3.1.2, 4 The $schema property MUST be present in each schema': [
-    {
-      'number': 11,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': '$schema is present',
-      'expected_result': TestResult.success,
-    },
-    {
-      'number': 12,
-      'cred_number': 1,
-      'schema_number': 5,
-      'description': '$schema is not present',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.': [
-    {
-      'number': 13,
-      'cred_number': 1,
-      'schema_number': 1,
-      'description': 'Validation succeeds',
-      'expected_result': TestResult.success,
-    },
-  ],
-  '4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.': [
-    {
-      'number': 14,
-      'cred_number': 1,
-      'schema_number': 6,
-      'description': 'Validation fails',
-      'expected_result': TestResult.failure,
-    },
-  ],
-  '4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.': [
-    {
-      'number': 15,
-      'cred_number': 1,
-      'schema_number': 7,
-      'description': 'Validation is indeterminate',
-      'expected_result': TestResult.indeterminate,
-    },
-  ],
-};
