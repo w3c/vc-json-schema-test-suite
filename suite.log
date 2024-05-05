@@ -24,16 +24,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:90afece5-cc36-4f0f-9e91-265dff3516b1",
+              "_testId": "urn:uuid:6f97e496-e29a-4a76-a3ca-f5194845f8b2",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 48021,
+                "_idleStart": 46110,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -42,7 +42,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 48737,
+              "duration": 46856,
               "state": "passed",
               "speed": "slow"
             },
@@ -59,16 +59,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:409535cb-f1a2-4610-8c93-256f053d2dc2",
+              "_testId": "urn:uuid:c4aa7acd-cca8-48f9-aa70-75775029aa94",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 49701,
+                "_idleStart": 47813,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -77,7 +77,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchema."
               },
-              "duration": 1699,
+              "duration": 1679,
               "state": "passed",
               "speed": "slow"
             },
@@ -94,9 +94,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:2c373e40-a8cf-4a5e-a290-da42ae31802c",
+              "_testId": "urn:uuid:9d0fb92e-6700-42e5-813b-597e5b6c8aae",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -119,16 +119,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:09735ef2-bf84-41d4-8ae5-0d681759d95f",
+              "_testId": "urn:uuid:eacf8b50-1bbf-4ada-858c-19c9498013ce",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 51391,
+                "_idleStart": 49528,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -137,7 +137,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 2532,
+              "duration": 2503,
               "state": "passed",
               "speed": "slow"
             },
@@ -154,16 +154,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:96b8f653-274f-4747-a980-7f2d74400c8a",
+              "_testId": "urn:uuid:ce8b7c2f-1dda-4336-81b9-a48a5ca7aa12",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 53948,
+                "_idleStart": 51996,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -172,7 +172,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 1738,
+              "duration": 1680,
               "state": "passed",
               "speed": "slow"
             },
@@ -189,16 +189,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:a1fc7b44-4b62-4de0-88e8-d29e89e22230",
+              "_testId": "urn:uuid:8fe2a316-8dca-4eae-a03f-7c1e4d7a5644",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 55679,
+                "_idleStart": 53673,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -207,7 +207,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 928,
+              "duration": 906,
               "state": "passed",
               "speed": "slow"
             },
@@ -224,16 +224,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:0f1c1d4b-a53e-41bb-a6d8-a3d6be1bf885",
+              "_testId": "urn:uuid:d5f78910-f7fc-4f6a-a787-decdb844e971",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 56608,
+                "_idleStart": 54567,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -242,7 +242,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 929,
+              "duration": 894,
               "state": "passed",
               "speed": "slow"
             },
@@ -259,16 +259,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "WhMW2NcS7KYp_pF5LieIU",
+              "parent": "SU8bYmAzr5-keiqRMMREm",
               "ctx": null,
-              "_testId": "urn:uuid:f52814fc-e17b-4eaf-b464-713cdbb33bd3",
+              "_testId": "urn:uuid:6386aff0-6511-4de4-8ade-ebafa9949790",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 57548,
+                "_idleStart": 55480,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -277,7 +277,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 940,
+              "duration": 912,
               "state": "passed",
               "speed": "slow"
             }
@@ -295,9 +295,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "tBxgJH94eErwh1sy5Xvy4",
+          "parent": "H3F8cMssQjtbSR4WggUqi",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "_testId": "urn:uuid:1241ecbb-007e-4283-996b-c4c741703622"
+          "_testId": "urn:uuid:03fd0c71-5cb9-49b7-9ff0-38eaa72bbaf5"
         }
       ],
       "tests": [
@@ -314,16 +314,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:90afece5-cc36-4f0f-9e91-265dff3516b1",
+          "_testId": "urn:uuid:6f97e496-e29a-4a76-a3ca-f5194845f8b2",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 48021,
+            "_idleStart": 46110,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -332,7 +332,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 48737,
+          "duration": 46856,
           "state": "passed",
           "speed": "slow"
         },
@@ -349,16 +349,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:409535cb-f1a2-4610-8c93-256f053d2dc2",
+          "_testId": "urn:uuid:c4aa7acd-cca8-48f9-aa70-75775029aa94",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 49701,
+            "_idleStart": 47813,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -367,7 +367,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchema."
           },
-          "duration": 1699,
+          "duration": 1679,
           "state": "passed",
           "speed": "slow"
         },
@@ -384,9 +384,9 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:2c373e40-a8cf-4a5e-a290-da42ae31802c",
+          "_testId": "urn:uuid:9d0fb92e-6700-42e5-813b-597e5b6c8aae",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -409,16 +409,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:09735ef2-bf84-41d4-8ae5-0d681759d95f",
+          "_testId": "urn:uuid:eacf8b50-1bbf-4ada-858c-19c9498013ce",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 51391,
+            "_idleStart": 49528,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -427,7 +427,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 2532,
+          "duration": 2503,
           "state": "passed",
           "speed": "slow"
         },
@@ -444,16 +444,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:96b8f653-274f-4747-a980-7f2d74400c8a",
+          "_testId": "urn:uuid:ce8b7c2f-1dda-4336-81b9-a48a5ca7aa12",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 53948,
+            "_idleStart": 51996,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -462,7 +462,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 1738,
+          "duration": 1680,
           "state": "passed",
           "speed": "slow"
         },
@@ -479,16 +479,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:a1fc7b44-4b62-4de0-88e8-d29e89e22230",
+          "_testId": "urn:uuid:8fe2a316-8dca-4eae-a03f-7c1e4d7a5644",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 55679,
+            "_idleStart": 53673,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -497,7 +497,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 928,
+          "duration": 906,
           "state": "passed",
           "speed": "slow"
         },
@@ -514,16 +514,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:0f1c1d4b-a53e-41bb-a6d8-a3d6be1bf885",
+          "_testId": "urn:uuid:d5f78910-f7fc-4f6a-a787-decdb844e971",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 56608,
+            "_idleStart": 54567,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -532,7 +532,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 929,
+          "duration": 894,
           "state": "passed",
           "speed": "slow"
         },
@@ -549,16 +549,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "WhMW2NcS7KYp_pF5LieIU",
+          "parent": "SU8bYmAzr5-keiqRMMREm",
           "ctx": null,
-          "_testId": "urn:uuid:f52814fc-e17b-4eaf-b464-713cdbb33bd3",
+          "_testId": "urn:uuid:6386aff0-6511-4de4-8ade-ebafa9949790",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 57548,
+            "_idleStart": 55480,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -567,7 +567,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 940,
+          "duration": 912,
           "state": "passed",
           "speed": "slow"
         }
@@ -585,7 +585,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "ZakubIBH2oJyLhNTTNRuh",
+      "parent": "tbDOli03Zvp9ohpSR4yPY",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
       "matrix": true,
       "report": true,
@@ -594,7 +594,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:9d7648cf-95ed-453d-945a-c6926bbd8158"
+      "_testId": "urn:uuid:2288517b-6be0-4468-95aa-2438b1b9d8cc"
     },
     {
       "title": "JsonSchema – JSON Schema 2020-12",
@@ -618,16 +618,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:249cd7a7-20c0-44e6-84e8-8c8c487d7f4b",
+              "_testId": "urn:uuid:3f75a3f4-1d36-4b38-9544-014ec5a26c45",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 58470,
+                "_idleStart": 56370,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -636,7 +636,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 1715,
+              "duration": 1651,
               "state": "passed",
               "speed": "slow"
             },
@@ -653,16 +653,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:f6c66218-32d0-4b67-a6cb-0276df9d50df",
+              "_testId": "urn:uuid:dd434574-6a06-4e9f-b2a8-4edfd2d5af8f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 60181,
+                "_idleStart": 58042,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -671,7 +671,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchema."
               },
-              "duration": 1705,
+              "duration": 1683,
               "state": "passed",
               "speed": "slow"
             },
@@ -688,16 +688,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:77ab6828-cdef-4398-a41a-a394932fc797",
+              "_testId": "urn:uuid:80fc7498-20b7-41b8-993a-f09944eaeea1",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
                 "columnId": "tbd",
                 "rowId": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes"
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -714,16 +714,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:af22b4d5-897d-4561-b9ae-fe7351e25328",
+              "_testId": "urn:uuid:2c1039c9-7db9-4f6f-8746-d0a7746a841d",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 61882,
+                "_idleStart": 59737,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -732,7 +732,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 2453,
+              "duration": 2467,
               "state": "passed",
               "speed": "slow"
             },
@@ -749,16 +749,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:333b4859-a55e-41dd-8375-8c8a73689fd9",
+              "_testId": "urn:uuid:f71288fd-49d9-4c9f-8086-412dceffbb4f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 64352,
+                "_idleStart": 62198,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -767,7 +767,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 1694,
+              "duration": 1695,
               "state": "passed",
               "speed": "slow"
             },
@@ -784,16 +784,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:082b4357-8751-4a78-93af-4a93a9148d4a",
+              "_testId": "urn:uuid:8f7a5a67-8a4e-4f79-86b5-59a26355c13f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 66037,
+                "_idleStart": 63893,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -802,7 +802,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 918,
+              "duration": 915,
               "state": "passed",
               "speed": "slow"
             },
@@ -819,16 +819,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:adbf7914-1a0d-4d0a-9f1b-df221eac9bb1",
+              "_testId": "urn:uuid:7f4205ad-48a7-42dc-a07e-69e32a5c94c3",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 66977,
+                "_idleStart": 64812,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -837,7 +837,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 940,
+              "duration": 918,
               "state": "passed",
               "speed": "slow"
             },
@@ -854,16 +854,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "ZUFhpm93nd2wotnu43xhy",
+              "parent": "TEbEs8UEqzqAx4mybkoEL",
               "ctx": null,
-              "_testId": "urn:uuid:d1423564-6329-4cf3-97a6-f1e566cf96ca",
+              "_testId": "urn:uuid:c131365a-96fa-4c92-9825-b1c4c2321a61",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 67903,
+                "_idleStart": 65737,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -872,7 +872,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 925,
+              "duration": 924,
               "state": "passed",
               "speed": "slow"
             }
@@ -890,9 +890,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "hUiKdNGOYfQD8jwIsUxZj",
+          "parent": "lBF04fBt-rIWSWNN5tFiY",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "_testId": "urn:uuid:4d33e4c0-bf48-4ab9-9ddc-50c3b1ccd7a8"
+          "_testId": "urn:uuid:23d3e303-4264-4bb1-b88e-3e7c6980736b"
         }
       ],
       "tests": [
@@ -909,16 +909,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:249cd7a7-20c0-44e6-84e8-8c8c487d7f4b",
+          "_testId": "urn:uuid:3f75a3f4-1d36-4b38-9544-014ec5a26c45",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 58470,
+            "_idleStart": 56370,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -927,7 +927,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 1715,
+          "duration": 1651,
           "state": "passed",
           "speed": "slow"
         },
@@ -944,16 +944,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:f6c66218-32d0-4b67-a6cb-0276df9d50df",
+          "_testId": "urn:uuid:dd434574-6a06-4e9f-b2a8-4edfd2d5af8f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 60181,
+            "_idleStart": 58042,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -962,7 +962,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchema."
           },
-          "duration": 1705,
+          "duration": 1683,
           "state": "passed",
           "speed": "slow"
         },
@@ -979,16 +979,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:77ab6828-cdef-4398-a41a-a394932fc797",
+          "_testId": "urn:uuid:80fc7498-20b7-41b8-993a-f09944eaeea1",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
             "columnId": "tbd",
             "rowId": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes"
           },
-          "duration": 1,
+          "duration": 0,
           "state": "passed",
           "speed": "fast"
         },
@@ -1005,16 +1005,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:af22b4d5-897d-4561-b9ae-fe7351e25328",
+          "_testId": "urn:uuid:2c1039c9-7db9-4f6f-8746-d0a7746a841d",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 61882,
+            "_idleStart": 59737,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1023,7 +1023,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 2453,
+          "duration": 2467,
           "state": "passed",
           "speed": "slow"
         },
@@ -1040,16 +1040,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:333b4859-a55e-41dd-8375-8c8a73689fd9",
+          "_testId": "urn:uuid:f71288fd-49d9-4c9f-8086-412dceffbb4f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 64352,
+            "_idleStart": 62198,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1058,7 +1058,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 1694,
+          "duration": 1695,
           "state": "passed",
           "speed": "slow"
         },
@@ -1075,16 +1075,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:082b4357-8751-4a78-93af-4a93a9148d4a",
+          "_testId": "urn:uuid:8f7a5a67-8a4e-4f79-86b5-59a26355c13f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 66037,
+            "_idleStart": 63893,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1093,7 +1093,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 918,
+          "duration": 915,
           "state": "passed",
           "speed": "slow"
         },
@@ -1110,16 +1110,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:adbf7914-1a0d-4d0a-9f1b-df221eac9bb1",
+          "_testId": "urn:uuid:7f4205ad-48a7-42dc-a07e-69e32a5c94c3",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 66977,
+            "_idleStart": 64812,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1128,7 +1128,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 940,
+          "duration": 918,
           "state": "passed",
           "speed": "slow"
         },
@@ -1145,16 +1145,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "ZUFhpm93nd2wotnu43xhy",
+          "parent": "TEbEs8UEqzqAx4mybkoEL",
           "ctx": null,
-          "_testId": "urn:uuid:d1423564-6329-4cf3-97a6-f1e566cf96ca",
+          "_testId": "urn:uuid:c131365a-96fa-4c92-9825-b1c4c2321a61",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 67903,
+            "_idleStart": 65737,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1163,7 +1163,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 925,
+          "duration": 924,
           "state": "passed",
           "speed": "slow"
         }
@@ -1181,7 +1181,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "ZakubIBH2oJyLhNTTNRuh",
+      "parent": "tbDOli03Zvp9ohpSR4yPY",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
       "matrix": true,
       "report": true,
@@ -1190,7 +1190,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:d8e620e5-8b9c-4106-b845-7f4fe0d67a0e"
+      "_testId": "urn:uuid:d48ec284-5ec6-4898-be69-a7a0bcef8bd7"
     },
     {
       "title": "JsonSchema – JSON Schema Draft-7",
@@ -1214,16 +1214,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:af0b9f6b-ae37-483e-8000-1293789a9627",
+              "_testId": "urn:uuid:f1a9ca7d-98ee-49ac-98d4-63efe5f8155e",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 68822,
+                "_idleStart": 66663,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1232,7 +1232,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 1700,
+              "duration": 1706,
               "state": "passed",
               "speed": "slow"
             },
@@ -1249,16 +1249,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:e789112d-db1a-4e11-95dc-a2900f177d39",
+              "_testId": "urn:uuid:50417075-ea13-4e33-aa2f-50ed546052d1",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 70518,
+                "_idleStart": 68354,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1267,7 +1267,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchema."
               },
-              "duration": 1696,
+              "duration": 1673,
               "state": "passed",
               "speed": "slow"
             },
@@ -1284,9 +1284,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:8bc7aa13-b90f-4496-b6ae-c03192f26182",
+              "_testId": "urn:uuid:f3cb237f-a260-4e6a-8bc8-da5bd13d346a",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1309,16 +1309,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:e4b4cd39-647d-4aee-87a7-8efbac7b5d81",
+              "_testId": "urn:uuid:ef80a85d-1ca0-4700-9107-a5450a0514d0",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 72211,
+                "_idleStart": 70051,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1327,7 +1327,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 2470,
+              "duration": 2472,
               "state": "passed",
               "speed": "slow"
             },
@@ -1344,16 +1344,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:220fae63-40d3-472a-8a42-430069be0326",
+              "_testId": "urn:uuid:017b4271-c179-4cb4-a618-19ee1070ab5b",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 74696,
+                "_idleStart": 72527,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1362,7 +1362,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 1713,
+              "duration": 1723,
               "state": "passed",
               "speed": "slow"
             },
@@ -1379,16 +1379,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:6ea7b980-bc93-41e6-a417-8a37dcfcd616",
+              "_testId": "urn:uuid:aa379548-869f-41d6-954c-0cef96315735",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 76408,
+                "_idleStart": 74228,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1397,7 +1397,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 926,
+              "duration": 915,
               "state": "passed",
               "speed": "slow"
             },
@@ -1414,16 +1414,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:cc4362e9-c56b-4993-87ee-aa7303a65afc",
+              "_testId": "urn:uuid:8f92c87e-020b-41ce-9eba-c1591b34bc26",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 77331,
+                "_idleStart": 75156,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1432,7 +1432,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 922,
+              "duration": 928,
               "state": "passed",
               "speed": "slow"
             },
@@ -1449,16 +1449,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "QmTrjfHLc5h0_hoWQjfgd",
+              "parent": "zPCZmjxlPU52b16NAby2k",
               "ctx": null,
-              "_testId": "urn:uuid:19643105-f769-4ca2-aceb-78eeff772807",
+              "_testId": "urn:uuid:03744abf-f8bf-4acc-9b0e-178d37b9a6a7",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 78259,
+                "_idleStart": 76068,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1467,7 +1467,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 928,
+              "duration": 911,
               "state": "passed",
               "speed": "slow"
             }
@@ -1485,9 +1485,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "TWhSSyzhoPgSkK4OKjOP0",
+          "parent": "zgP_gWyNF60PgKXOcG7tc",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "_testId": "urn:uuid:e7974907-a923-4323-a33b-8f55daee5f9a"
+          "_testId": "urn:uuid:abbc9bce-a851-4d3c-96f6-1e36b40c4007"
         }
       ],
       "tests": [
@@ -1504,16 +1504,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:af0b9f6b-ae37-483e-8000-1293789a9627",
+          "_testId": "urn:uuid:f1a9ca7d-98ee-49ac-98d4-63efe5f8155e",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 68822,
+            "_idleStart": 66663,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1522,7 +1522,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 1700,
+          "duration": 1706,
           "state": "passed",
           "speed": "slow"
         },
@@ -1539,16 +1539,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:e789112d-db1a-4e11-95dc-a2900f177d39",
+          "_testId": "urn:uuid:50417075-ea13-4e33-aa2f-50ed546052d1",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 70518,
+            "_idleStart": 68354,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1557,7 +1557,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchema."
           },
-          "duration": 1696,
+          "duration": 1673,
           "state": "passed",
           "speed": "slow"
         },
@@ -1574,9 +1574,9 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:8bc7aa13-b90f-4496-b6ae-c03192f26182",
+          "_testId": "urn:uuid:f3cb237f-a260-4e6a-8bc8-da5bd13d346a",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -1599,16 +1599,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:e4b4cd39-647d-4aee-87a7-8efbac7b5d81",
+          "_testId": "urn:uuid:ef80a85d-1ca0-4700-9107-a5450a0514d0",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 72211,
+            "_idleStart": 70051,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1617,7 +1617,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 2470,
+          "duration": 2472,
           "state": "passed",
           "speed": "slow"
         },
@@ -1634,16 +1634,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:220fae63-40d3-472a-8a42-430069be0326",
+          "_testId": "urn:uuid:017b4271-c179-4cb4-a618-19ee1070ab5b",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 74696,
+            "_idleStart": 72527,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1652,7 +1652,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 1713,
+          "duration": 1723,
           "state": "passed",
           "speed": "slow"
         },
@@ -1669,16 +1669,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:6ea7b980-bc93-41e6-a417-8a37dcfcd616",
+          "_testId": "urn:uuid:aa379548-869f-41d6-954c-0cef96315735",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 76408,
+            "_idleStart": 74228,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1687,7 +1687,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 926,
+          "duration": 915,
           "state": "passed",
           "speed": "slow"
         },
@@ -1704,16 +1704,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:cc4362e9-c56b-4993-87ee-aa7303a65afc",
+          "_testId": "urn:uuid:8f92c87e-020b-41ce-9eba-c1591b34bc26",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 77331,
+            "_idleStart": 75156,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1722,7 +1722,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 922,
+          "duration": 928,
           "state": "passed",
           "speed": "slow"
         },
@@ -1739,16 +1739,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "QmTrjfHLc5h0_hoWQjfgd",
+          "parent": "zPCZmjxlPU52b16NAby2k",
           "ctx": null,
-          "_testId": "urn:uuid:19643105-f769-4ca2-aceb-78eeff772807",
+          "_testId": "urn:uuid:03744abf-f8bf-4acc-9b0e-178d37b9a6a7",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 78259,
+            "_idleStart": 76068,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1757,7 +1757,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 928,
+          "duration": 911,
           "state": "passed",
           "speed": "slow"
         }
@@ -1775,7 +1775,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "ZakubIBH2oJyLhNTTNRuh",
+      "parent": "tbDOli03Zvp9ohpSR4yPY",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
       "matrix": true,
       "report": true,
@@ -1784,7 +1784,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:1f287d08-b785-4f52-97d3-a3c735c1da64"
+      "_testId": "urn:uuid:85c41291-1edf-4985-b3cf-38bcdb6dac19"
     },
     {
       "title": "JsonSchemaCredential – JSON Schema 2019-09",
@@ -1808,16 +1808,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:cc6d21dd-448a-4809-98cb-c076feb08f67",
+              "_testId": "urn:uuid:6e78c370-7527-4f7b-bc8f-e2371eec3cdf",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 79166,
+                "_idleStart": 76994,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1826,7 +1826,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 1682,
+              "duration": 1680,
               "state": "passed",
               "speed": "slow"
             },
@@ -1843,16 +1843,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:05bef7a9-a9a2-419a-806a-f9c0abbee7e8",
+              "_testId": "urn:uuid:3b3f64b3-f71f-4b6b-963e-a305371dcbfb",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80875,
+                "_idleStart": 78660,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1861,7 +1861,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchemaCredential."
               },
-              "duration": 1738,
+              "duration": 1677,
               "state": "passed",
               "speed": "slow"
             },
@@ -1878,16 +1878,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:97186ae9-eb7e-4951-bdc9-6913fcda1669",
+              "_testId": "urn:uuid:c5d853b6-6306-460f-a491-6dcfacaa898e",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 82616,
+                "_idleStart": 80321,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1896,7 +1896,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
               },
-              "duration": 3306,
+              "duration": 3183,
               "state": "passed",
               "speed": "slow"
             },
@@ -1913,16 +1913,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:200ec19c-c2d7-439f-b31f-323dcc19980c",
+              "_testId": "urn:uuid:fbd7f478-4e34-42f9-98c1-d857ee9dfcc1",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 85902,
+                "_idleStart": 83498,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1931,7 +1931,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
               },
-              "duration": 1707,
+              "duration": 1645,
               "state": "passed",
               "speed": "slow"
             },
@@ -1948,9 +1948,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:a34ebce1-2a78-4008-8a88-f4586849c571",
+              "_testId": "urn:uuid:e2b79782-533e-4cd4-b31d-6d8807c40901",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1961,12 +1961,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 86845,
+                "_idleStart": 84406,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "pending"
             },
             {
@@ -1982,16 +1982,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:7deb2e67-37b5-4dd7-a782-c2ced072dc78",
+              "_testId": "urn:uuid:04789c29-8f12-4960-8a6a-ce18485686d2",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 87593,
+                "_idleStart": 85173,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2000,7 +2000,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 2434,
+              "duration": 2488,
               "state": "passed",
               "speed": "slow"
             },
@@ -2017,16 +2017,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:125985f1-1bf2-4ee7-9be8-2946e881975f",
+              "_testId": "urn:uuid:34b8a565-0908-49df-ab6a-cfe453c968d6",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 90053,
+                "_idleStart": 87665,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2035,7 +2035,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 1698,
+              "duration": 1702,
               "state": "passed",
               "speed": "slow"
             },
@@ -2052,16 +2052,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:efb89f40-0a0d-4190-aec1-e976e1219169",
+              "_testId": "urn:uuid:eb58cfcf-74a6-4490-8320-0c8e07e0b319",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 91731,
+                "_idleStart": 89363,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2070,7 +2070,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 904,
+              "duration": 917,
               "state": "passed",
               "speed": "slow"
             },
@@ -2087,16 +2087,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:0435e463-761e-417d-9851-e39407d22675",
+              "_testId": "urn:uuid:53285701-6e1f-4902-913e-53d7e2dcabed",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 92658,
+                "_idleStart": 90272,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2105,7 +2105,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 927,
+              "duration": 909,
               "state": "passed",
               "speed": "slow"
             },
@@ -2122,16 +2122,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "lq_M16mSOvIiVy_OdUQf_",
+              "parent": "sr69iTNl5Tb87tOZ3iMrg",
               "ctx": null,
-              "_testId": "urn:uuid:2b6e1f10-9203-42b0-a149-96b7abc6b34a",
+              "_testId": "urn:uuid:182b8db7-55ef-4a54-89ba-3b1bc81bcace",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 93600,
+                "_idleStart": 91177,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2140,7 +2140,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 942,
+              "duration": 905,
               "state": "passed",
               "speed": "slow"
             }
@@ -2158,9 +2158,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "P3LBgUIIxLQUmhilLU7fS",
+          "parent": "nlNdvRbgpBa1yNaxGjNG5",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "_testId": "urn:uuid:b83c2c72-ec6c-43c6-abae-ec1bf23a8830"
+          "_testId": "urn:uuid:47485392-99ca-43f5-a750-70b2283c19d4"
         }
       ],
       "tests": [
@@ -2177,16 +2177,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:cc6d21dd-448a-4809-98cb-c076feb08f67",
+          "_testId": "urn:uuid:6e78c370-7527-4f7b-bc8f-e2371eec3cdf",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 79166,
+            "_idleStart": 76994,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2195,7 +2195,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 1682,
+          "duration": 1680,
           "state": "passed",
           "speed": "slow"
         },
@@ -2212,16 +2212,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:05bef7a9-a9a2-419a-806a-f9c0abbee7e8",
+          "_testId": "urn:uuid:3b3f64b3-f71f-4b6b-963e-a305371dcbfb",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80875,
+            "_idleStart": 78660,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2230,7 +2230,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchemaCredential."
           },
-          "duration": 1738,
+          "duration": 1677,
           "state": "passed",
           "speed": "slow"
         },
@@ -2247,16 +2247,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:97186ae9-eb7e-4951-bdc9-6913fcda1669",
+          "_testId": "urn:uuid:c5d853b6-6306-460f-a491-6dcfacaa898e",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 82616,
+            "_idleStart": 80321,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2265,7 +2265,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
           },
-          "duration": 3306,
+          "duration": 3183,
           "state": "passed",
           "speed": "slow"
         },
@@ -2282,16 +2282,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:200ec19c-c2d7-439f-b31f-323dcc19980c",
+          "_testId": "urn:uuid:fbd7f478-4e34-42f9-98c1-d857ee9dfcc1",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 85902,
+            "_idleStart": 83498,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2300,7 +2300,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
           },
-          "duration": 1707,
+          "duration": 1645,
           "state": "passed",
           "speed": "slow"
         },
@@ -2317,9 +2317,9 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:a34ebce1-2a78-4008-8a88-f4586849c571",
+          "_testId": "urn:uuid:e2b79782-533e-4cd4-b31d-6d8807c40901",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -2330,12 +2330,12 @@
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 86845,
+            "_idleStart": 84406,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
           },
-          "duration": 0,
+          "duration": 1,
           "state": "pending"
         },
         {
@@ -2351,16 +2351,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:7deb2e67-37b5-4dd7-a782-c2ced072dc78",
+          "_testId": "urn:uuid:04789c29-8f12-4960-8a6a-ce18485686d2",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 87593,
+            "_idleStart": 85173,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2369,7 +2369,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 2434,
+          "duration": 2488,
           "state": "passed",
           "speed": "slow"
         },
@@ -2386,16 +2386,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:125985f1-1bf2-4ee7-9be8-2946e881975f",
+          "_testId": "urn:uuid:34b8a565-0908-49df-ab6a-cfe453c968d6",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 90053,
+            "_idleStart": 87665,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2404,7 +2404,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 1698,
+          "duration": 1702,
           "state": "passed",
           "speed": "slow"
         },
@@ -2421,16 +2421,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:efb89f40-0a0d-4190-aec1-e976e1219169",
+          "_testId": "urn:uuid:eb58cfcf-74a6-4490-8320-0c8e07e0b319",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 91731,
+            "_idleStart": 89363,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2439,7 +2439,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 904,
+          "duration": 917,
           "state": "passed",
           "speed": "slow"
         },
@@ -2456,16 +2456,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:0435e463-761e-417d-9851-e39407d22675",
+          "_testId": "urn:uuid:53285701-6e1f-4902-913e-53d7e2dcabed",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 92658,
+            "_idleStart": 90272,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2474,7 +2474,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 927,
+          "duration": 909,
           "state": "passed",
           "speed": "slow"
         },
@@ -2491,16 +2491,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "lq_M16mSOvIiVy_OdUQf_",
+          "parent": "sr69iTNl5Tb87tOZ3iMrg",
           "ctx": null,
-          "_testId": "urn:uuid:2b6e1f10-9203-42b0-a149-96b7abc6b34a",
+          "_testId": "urn:uuid:182b8db7-55ef-4a54-89ba-3b1bc81bcace",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 93600,
+            "_idleStart": 91177,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2509,7 +2509,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 942,
+          "duration": 905,
           "state": "passed",
           "speed": "slow"
         }
@@ -2527,7 +2527,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "ZakubIBH2oJyLhNTTNRuh",
+      "parent": "tbDOli03Zvp9ohpSR4yPY",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
       "matrix": true,
       "report": true,
@@ -2536,7 +2536,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:fb6d5eb9-e39b-4f86-8426-4990ce4f865b"
+      "_testId": "urn:uuid:05062c2a-9776-4275-9623-ef1f14404254"
     },
     {
       "title": "JsonSchemaCredential – JSON Schema 2020-12",
@@ -2560,16 +2560,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:b61974f1-be9a-4419-ad8a-3ae7f70ad0a4",
+              "_testId": "urn:uuid:9306def0-f906-452b-9cdc-8ecf4241df57",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 94526,
+                "_idleStart": 92090,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2578,7 +2578,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 1695,
+              "duration": 1684,
               "state": "passed",
               "speed": "slow"
             },
@@ -2595,16 +2595,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:d20941d7-5402-4994-ab64-4df46000f233",
+              "_testId": "urn:uuid:c315346c-1453-412a-87d1-1ba95a045c5c",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 96223,
+                "_idleStart": 93781,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2630,16 +2630,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:30604dc8-c4df-4150-b67a-9876d0eb0ace",
+              "_testId": "urn:uuid:fefa42d1-59f5-4ad4-a86b-795f675d2448",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 97918,
+                "_idleStart": 95478,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2648,7 +2648,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
               },
-              "duration": 3254,
+              "duration": 3270,
               "state": "passed",
               "speed": "slow"
             },
@@ -2665,16 +2665,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:cb425147-098b-4596-b354-139091b98250",
+              "_testId": "urn:uuid:7e41c787-c247-44e4-8e86-0abe4082cc30",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 101164,
+                "_idleStart": 98748,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2683,7 +2683,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
               },
-              "duration": 1697,
+              "duration": 1666,
               "state": "passed",
               "speed": "slow"
             },
@@ -2700,9 +2700,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:1a34187e-11e5-431c-b4e8-211e54113cf6",
+              "_testId": "urn:uuid:35cd8df4-c930-475a-b40b-db8e06846a24",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2713,7 +2713,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 102097,
+                "_idleStart": 99647,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2735,16 +2735,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:09f32e1e-a5bf-4da9-aa67-a5ae19a2c121",
+              "_testId": "urn:uuid:8b6c4166-a2a4-404c-88b5-ecb1a0438f9d",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 102866,
+                "_idleStart": 100404,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2753,7 +2753,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 2462,
+              "duration": 2443,
               "state": "passed",
               "speed": "slow"
             },
@@ -2770,16 +2770,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:436fa7d2-6d22-4b01-ac55-de7702ad0cab",
+              "_testId": "urn:uuid:b06ab31b-0cf0-4a04-8bc2-20eea5ece63b",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 105320,
+                "_idleStart": 102849,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2788,7 +2788,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 1675,
+              "duration": 1665,
               "state": "passed",
               "speed": "slow"
             },
@@ -2805,16 +2805,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:77ca180e-cced-433b-aaab-eaf3dd087e2d",
+              "_testId": "urn:uuid:ee512b90-071d-4519-841e-946a30dd985f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 107011,
+                "_idleStart": 104523,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2823,7 +2823,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 927,
+              "duration": 919,
               "state": "passed",
               "speed": "slow"
             },
@@ -2840,16 +2840,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:8d8c41b4-e6b8-4cdc-a534-f6137b111608",
+              "_testId": "urn:uuid:e3113563-dda9-4e91-bd40-7b2b5bab55cc",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 107925,
+                "_idleStart": 105444,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2858,7 +2858,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 914,
+              "duration": 921,
               "state": "passed",
               "speed": "slow"
             },
@@ -2875,16 +2875,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "VZ2R0LrtF09Jao4M3IhI6",
+              "parent": "y_MmNIGiNAXHfzS2GXhrO",
               "ctx": null,
-              "_testId": "urn:uuid:a334dc7a-b52d-41eb-9c07-4b12c1db5589",
+              "_testId": "urn:uuid:c4dd1745-ded0-4da4-ab6e-92da608871ea",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 108843,
+                "_idleStart": 106379,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2893,7 +2893,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 918,
+              "duration": 935,
               "state": "passed",
               "speed": "slow"
             }
@@ -2911,9 +2911,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "XCLqdmz6T2NcM0Nt50SjD",
+          "parent": "EI2oUM96k1dde9FOAtSmp",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "_testId": "urn:uuid:c03ba8c8-a321-4cf9-93d5-660c63b7df31"
+          "_testId": "urn:uuid:fe0ec427-4cb5-4bc5-a1b6-4e892892d94a"
         }
       ],
       "tests": [
@@ -2930,16 +2930,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:b61974f1-be9a-4419-ad8a-3ae7f70ad0a4",
+          "_testId": "urn:uuid:9306def0-f906-452b-9cdc-8ecf4241df57",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 94526,
+            "_idleStart": 92090,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2948,7 +2948,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 1695,
+          "duration": 1684,
           "state": "passed",
           "speed": "slow"
         },
@@ -2965,16 +2965,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:d20941d7-5402-4994-ab64-4df46000f233",
+          "_testId": "urn:uuid:c315346c-1453-412a-87d1-1ba95a045c5c",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 96223,
+            "_idleStart": 93781,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3000,16 +3000,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:30604dc8-c4df-4150-b67a-9876d0eb0ace",
+          "_testId": "urn:uuid:fefa42d1-59f5-4ad4-a86b-795f675d2448",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 97918,
+            "_idleStart": 95478,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3018,7 +3018,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
           },
-          "duration": 3254,
+          "duration": 3270,
           "state": "passed",
           "speed": "slow"
         },
@@ -3035,16 +3035,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:cb425147-098b-4596-b354-139091b98250",
+          "_testId": "urn:uuid:7e41c787-c247-44e4-8e86-0abe4082cc30",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 101164,
+            "_idleStart": 98748,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3053,7 +3053,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
           },
-          "duration": 1697,
+          "duration": 1666,
           "state": "passed",
           "speed": "slow"
         },
@@ -3070,9 +3070,9 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:1a34187e-11e5-431c-b4e8-211e54113cf6",
+          "_testId": "urn:uuid:35cd8df4-c930-475a-b40b-db8e06846a24",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -3083,7 +3083,7 @@
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 102097,
+            "_idleStart": 99647,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3105,16 +3105,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:09f32e1e-a5bf-4da9-aa67-a5ae19a2c121",
+          "_testId": "urn:uuid:8b6c4166-a2a4-404c-88b5-ecb1a0438f9d",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 102866,
+            "_idleStart": 100404,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3123,7 +3123,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 2462,
+          "duration": 2443,
           "state": "passed",
           "speed": "slow"
         },
@@ -3140,16 +3140,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:436fa7d2-6d22-4b01-ac55-de7702ad0cab",
+          "_testId": "urn:uuid:b06ab31b-0cf0-4a04-8bc2-20eea5ece63b",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 105320,
+            "_idleStart": 102849,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3158,7 +3158,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 1675,
+          "duration": 1665,
           "state": "passed",
           "speed": "slow"
         },
@@ -3175,16 +3175,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:77ca180e-cced-433b-aaab-eaf3dd087e2d",
+          "_testId": "urn:uuid:ee512b90-071d-4519-841e-946a30dd985f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 107011,
+            "_idleStart": 104523,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3193,7 +3193,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 927,
+          "duration": 919,
           "state": "passed",
           "speed": "slow"
         },
@@ -3210,16 +3210,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:8d8c41b4-e6b8-4cdc-a534-f6137b111608",
+          "_testId": "urn:uuid:e3113563-dda9-4e91-bd40-7b2b5bab55cc",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 107925,
+            "_idleStart": 105444,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3228,7 +3228,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 914,
+          "duration": 921,
           "state": "passed",
           "speed": "slow"
         },
@@ -3245,16 +3245,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "VZ2R0LrtF09Jao4M3IhI6",
+          "parent": "y_MmNIGiNAXHfzS2GXhrO",
           "ctx": null,
-          "_testId": "urn:uuid:a334dc7a-b52d-41eb-9c07-4b12c1db5589",
+          "_testId": "urn:uuid:c4dd1745-ded0-4da4-ab6e-92da608871ea",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 108843,
+            "_idleStart": 106379,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3263,7 +3263,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 918,
+          "duration": 935,
           "state": "passed",
           "speed": "slow"
         }
@@ -3281,7 +3281,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "ZakubIBH2oJyLhNTTNRuh",
+      "parent": "tbDOli03Zvp9ohpSR4yPY",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
       "matrix": true,
       "report": true,
@@ -3290,7 +3290,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:31f46cc3-c2e7-4633-92db-50765994426f"
+      "_testId": "urn:uuid:df51751d-2505-48e0-a7af-7925ff23321d"
     },
     {
       "title": "JsonSchemaCredential – JSON Schema Draft-7",
@@ -3314,16 +3314,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:52e54b63-960f-41f5-b326-9ef218295a46",
+              "_testId": "urn:uuid:fdbcd5f3-2f2e-4ff8-9b0c-b3d0edb7a6b2",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 109778,
+                "_idleStart": 107307,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3332,7 +3332,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 1711,
+              "duration": 1689,
               "state": "passed",
               "speed": "slow"
             },
@@ -3349,16 +3349,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:27ffcf3d-2e2b-4d4f-a4ce-a92929065e57",
+              "_testId": "urn:uuid:0bfa49ca-e0f5-4e36-9c98-8092f2671a91",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 111476,
+                "_idleStart": 108999,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3367,7 +3367,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchemaCredential."
               },
-              "duration": 1707,
+              "duration": 1715,
               "state": "passed",
               "speed": "slow"
             },
@@ -3384,16 +3384,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:3455a1f0-0667-4c76-a95e-afa91431865f",
+              "_testId": "urn:uuid:75ba9a5f-3943-453e-a3ac-13255262ea36",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 113171,
+                "_idleStart": 110700,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3402,7 +3402,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
               },
-              "duration": 3262,
+              "duration": 3237,
               "state": "passed",
               "speed": "slow"
             },
@@ -3419,16 +3419,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:b192e3d4-0de4-4edf-95f1-0fb5b372a5d8",
+              "_testId": "urn:uuid:2328a96e-0af2-475f-a9ea-4bf184ee7eed",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 116443,
+                "_idleStart": 113938,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3437,7 +3437,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
               },
-              "duration": 1716,
+              "duration": 1703,
               "state": "passed",
               "speed": "slow"
             },
@@ -3454,9 +3454,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:dd5d7004-fc48-4a8f-8bf3-c529374990ad",
+              "_testId": "urn:uuid:73f9ec79-98ba-4f33-ae9e-16d72d4be451",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3467,7 +3467,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 117391,
+                "_idleStart": 114875,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3488,16 +3488,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:7a025b63-e479-418a-9972-6f1a8c11d5dc",
+              "_testId": "urn:uuid:cd963ada-cbb4-4513-82fc-79f3d5f7a2f0",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 118155,
+                "_idleStart": 115653,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3506,7 +3506,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 2452,
+              "duration": 2497,
               "state": "passed",
               "speed": "slow"
             },
@@ -3523,16 +3523,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:69c9b09d-e3fc-48be-9f72-578c55e5d303",
+              "_testId": "urn:uuid:2e839672-e1c5-488f-9a7f-4cbad22e1265",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 120635,
+                "_idleStart": 118151,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3541,7 +3541,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 1711,
+              "duration": 1720,
               "state": "passed",
               "speed": "slow"
             },
@@ -3558,16 +3558,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:4b3fbb72-bb61-4a4f-8750-3468509d5c4d",
+              "_testId": "urn:uuid:92dd9936-b2f3-42d7-8a52-8c8392aea943",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 122323,
+                "_idleStart": 119858,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3576,7 +3576,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 918,
+              "duration": 916,
               "state": "passed",
               "speed": "slow"
             },
@@ -3593,16 +3593,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:8a68eeb1-d041-498c-817e-cdef4270612c",
+              "_testId": "urn:uuid:da1d7215-fccf-4b5a-b858-8c7ad0bd39a0",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 123239,
+                "_idleStart": 120791,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3611,7 +3611,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 916,
+              "duration": 933,
               "state": "passed",
               "speed": "slow"
             },
@@ -3628,16 +3628,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "2q0AamdmmsUgHkJnWMOWD",
+              "parent": "F31KMfsV1F9i-fAKll-ts",
               "ctx": null,
-              "_testId": "urn:uuid:b58c56bc-f393-473d-9e23-2ce4bba52f3b",
+              "_testId": "urn:uuid:3c8a26ba-7664-4e41-b1bc-08cd711ba55d",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 124164,
+                "_idleStart": 121734,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3646,7 +3646,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 925,
+              "duration": 943,
               "state": "passed",
               "speed": "slow"
             }
@@ -3664,9 +3664,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "hnBTkMOYfP-0j1MPb46hI",
+          "parent": "DoPOPyhi7gKkUl2MSi0Kn",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "_testId": "urn:uuid:3ce56908-afae-4566-b06a-3af9a6e4b2bb"
+          "_testId": "urn:uuid:ccc17362-1b87-4bc4-b901-c09d9c0c669b"
         }
       ],
       "tests": [
@@ -3683,16 +3683,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:52e54b63-960f-41f5-b326-9ef218295a46",
+          "_testId": "urn:uuid:fdbcd5f3-2f2e-4ff8-9b0c-b3d0edb7a6b2",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 109778,
+            "_idleStart": 107307,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3701,7 +3701,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 1711,
+          "duration": 1689,
           "state": "passed",
           "speed": "slow"
         },
@@ -3718,16 +3718,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:27ffcf3d-2e2b-4d4f-a4ce-a92929065e57",
+          "_testId": "urn:uuid:0bfa49ca-e0f5-4e36-9c98-8092f2671a91",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 111476,
+            "_idleStart": 108999,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3736,7 +3736,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchemaCredential."
           },
-          "duration": 1707,
+          "duration": 1715,
           "state": "passed",
           "speed": "slow"
         },
@@ -3753,16 +3753,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:3455a1f0-0667-4c76-a95e-afa91431865f",
+          "_testId": "urn:uuid:75ba9a5f-3943-453e-a3ac-13255262ea36",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 113171,
+            "_idleStart": 110700,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3771,7 +3771,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
           },
-          "duration": 3262,
+          "duration": 3237,
           "state": "passed",
           "speed": "slow"
         },
@@ -3788,16 +3788,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:b192e3d4-0de4-4edf-95f1-0fb5b372a5d8",
+          "_testId": "urn:uuid:2328a96e-0af2-475f-a9ea-4bf184ee7eed",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 116443,
+            "_idleStart": 113938,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3806,7 +3806,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
           },
-          "duration": 1716,
+          "duration": 1703,
           "state": "passed",
           "speed": "slow"
         },
@@ -3823,9 +3823,9 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:dd5d7004-fc48-4a8f-8bf3-c529374990ad",
+          "_testId": "urn:uuid:73f9ec79-98ba-4f33-ae9e-16d72d4be451",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -3836,7 +3836,7 @@
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 117391,
+            "_idleStart": 114875,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3857,16 +3857,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:7a025b63-e479-418a-9972-6f1a8c11d5dc",
+          "_testId": "urn:uuid:cd963ada-cbb4-4513-82fc-79f3d5f7a2f0",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 118155,
+            "_idleStart": 115653,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3875,7 +3875,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 2452,
+          "duration": 2497,
           "state": "passed",
           "speed": "slow"
         },
@@ -3892,16 +3892,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:69c9b09d-e3fc-48be-9f72-578c55e5d303",
+          "_testId": "urn:uuid:2e839672-e1c5-488f-9a7f-4cbad22e1265",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 120635,
+            "_idleStart": 118151,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3910,7 +3910,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 1711,
+          "duration": 1720,
           "state": "passed",
           "speed": "slow"
         },
@@ -3927,16 +3927,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:4b3fbb72-bb61-4a4f-8750-3468509d5c4d",
+          "_testId": "urn:uuid:92dd9936-b2f3-42d7-8a52-8c8392aea943",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 122323,
+            "_idleStart": 119858,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3945,7 +3945,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 918,
+          "duration": 916,
           "state": "passed",
           "speed": "slow"
         },
@@ -3962,16 +3962,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:8a68eeb1-d041-498c-817e-cdef4270612c",
+          "_testId": "urn:uuid:da1d7215-fccf-4b5a-b858-8c7ad0bd39a0",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 123239,
+            "_idleStart": 120791,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3980,7 +3980,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 916,
+          "duration": 933,
           "state": "passed",
           "speed": "slow"
         },
@@ -3997,16 +3997,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "2q0AamdmmsUgHkJnWMOWD",
+          "parent": "F31KMfsV1F9i-fAKll-ts",
           "ctx": null,
-          "_testId": "urn:uuid:b58c56bc-f393-473d-9e23-2ce4bba52f3b",
+          "_testId": "urn:uuid:3c8a26ba-7664-4e41-b1bc-08cd711ba55d",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 124164,
+            "_idleStart": 121734,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4015,7 +4015,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 925,
+          "duration": 943,
           "state": "passed",
           "speed": "slow"
         }
@@ -4033,7 +4033,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "ZakubIBH2oJyLhNTTNRuh",
+      "parent": "tbDOli03Zvp9ohpSR4yPY",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
       "matrix": true,
       "report": true,
@@ -4042,7 +4042,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:53b7a8be-552c-4acd-9902-8d8a09b3696f"
+      "_testId": "urn:uuid:561a5cd3-de5c-47ce-aaed-a4ec22c7618c"
     }
   ],
   "tests": [],
@@ -4066,5 +4066,5 @@
     ]
   },
   "_eventsCount": 1,
-  "_testId": "urn:uuid:b85701db-411e-479b-9691-5170f2009a15"
+  "_testId": "urn:uuid:820e93f8-7e68-4a2f-abab-089f4281307c"
 }
