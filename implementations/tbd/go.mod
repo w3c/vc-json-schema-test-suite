@@ -26,15 +26,15 @@ require (
 	github.com/hyperledger/aries-framework-go/spi v0.0.0-20230427134832-0c9969493bd3 // indirect
 	github.com/kilic/bls12-381 v0.1.1-0.20210503002446-7b7597926c69 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
-	github.com/lestrrat-go/jwx/v2 v2.0.12 // indirect
+	github.com/lestrrat-go/jwx/v2 v2.0.21 // indirect
 	github.com/piprate/json-gold v0.5.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/pquerna/cachecontrol v0.1.0 // indirect
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1 // indirect
-	github.com/stretchr/testify v1.8.4 // indirect
-	golang.org/x/crypto v0.17.0 // indirect
-	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	github.com/stretchr/testify v1.9.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
