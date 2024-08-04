@@ -114,13 +114,13 @@
     <section class="informative" id="conformance-testing-results">
       <h2> Conformance Testing Results </h2>
       <p>
-      Tests passed 50/50 100%
+      Tests passed 2/50 4%
       </p>
       <p>
-      Tests failed 0/50 0%
+      Tests failed 48/50 96%
       </p>
       <p>
-      Failures 0
+      Failures 48
       </p>
       <p>
       Tests skipped 4
@@ -129,7 +129,7 @@
       Total tests 54
       </p>
       <p>
-        These tests were run on <time>28 July 2024 at 5:02 am UTC</time>
+        These tests were run on <time>4 August 2024 at 5:00 am UTC</time>
       </p>
       <section class="informative" id="Key">
         <h3>Key</h3>
@@ -219,8 +219,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -249,6 +249,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:31:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -256,8 +263,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 The type property MUST be JsonSchema.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -286,6 +293,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:38:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -330,8 +344,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -360,6 +374,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:54:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -367,8 +388,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.2, 4 The $schema property MUST be present in each schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -397,6 +418,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:62:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -404,8 +432,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -434,6 +462,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:69:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -441,8 +476,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -471,6 +506,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:76:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -478,8 +520,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -508,6 +550,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:83:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -590,8 +639,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -620,6 +669,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:31:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -627,8 +683,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 The type property MUST be JsonSchema.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -657,6 +713,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:38:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -701,8 +764,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -731,6 +794,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:54:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -738,8 +808,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.2, 4 The $schema property MUST be present in each schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -768,6 +838,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:62:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -775,8 +852,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -805,6 +882,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:69:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -812,8 +896,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -842,6 +926,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:76:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -849,8 +940,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -879,6 +970,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:83:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -961,8 +1059,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -991,6 +1089,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:31:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -998,8 +1103,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 The type property MUST be JsonSchema.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1028,6 +1133,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:38:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1072,8 +1184,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1102,6 +1214,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:54:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1109,8 +1228,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.2, 4 The $schema property MUST be present in each schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1139,6 +1258,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:62:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1146,8 +1272,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1176,6 +1302,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:69:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1183,8 +1316,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1213,6 +1346,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:76:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1220,8 +1360,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1250,6 +1390,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js:83:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1332,8 +1479,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1362,6 +1509,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:31:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1369,8 +1523,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 The type property MUST be JsonSchemaCredential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1399,6 +1553,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:38:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1406,8 +1567,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1436,6 +1597,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:45:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1443,8 +1611,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.2 The value of the credentialSchema property MUST always be set to [known json schema]</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1473,6 +1641,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:52:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1517,8 +1692,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1547,6 +1722,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:68:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1554,8 +1736,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.2, 4 The $schema property MUST be present in each schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1584,6 +1766,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:76:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1591,8 +1780,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1621,6 +1810,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:83:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1628,8 +1824,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1658,6 +1854,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:90:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1665,8 +1868,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1695,6 +1898,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:97:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1777,8 +1987,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1807,6 +2017,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:31:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1814,8 +2031,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 The type property MUST be JsonSchemaCredential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1844,6 +2061,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:38:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1851,8 +2075,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1881,6 +2105,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:45:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1888,8 +2119,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.2 The value of the credentialSchema property MUST always be set to [known json schema]</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1918,6 +2149,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:52:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1962,8 +2200,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -1992,6 +2230,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:68:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -1999,8 +2244,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.2, 4 The $schema property MUST be present in each schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2029,6 +2274,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:76:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2036,8 +2288,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2066,6 +2318,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:83:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2073,8 +2332,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2103,6 +2362,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:90:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2110,8 +2376,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2140,6 +2406,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:97:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2222,8 +2495,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2252,6 +2525,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:31:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2259,8 +2539,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.1 The type property MUST be JsonSchemaCredential.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2289,6 +2569,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:38:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2296,8 +2583,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2326,6 +2613,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:45:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2333,8 +2627,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">2.2 The value of the credentialSchema property MUST always be set to [known json schema]</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2363,6 +2657,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:52:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2407,8 +2708,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2437,6 +2738,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:68:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2444,8 +2752,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">3.1.2, 4 The $schema property MUST be present in each schema</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2474,6 +2782,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:76:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2481,8 +2796,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2511,6 +2826,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:83:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2518,8 +2840,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2548,6 +2870,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:90:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
@@ -2555,8 +2884,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2585,6 +2914,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "AssertionError",
+                      "message": "expected 'error' to equal 'success'",
+                      "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:97:18)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
               </tr>
