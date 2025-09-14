@@ -24,16 +24,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:2f10963c-59a2-4efd-a0ba-ba214a6adbde",
+              "_testId": "urn:uuid:4178c800-198a-4939-b3f0-e48ca732f624",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 225,
+                "_idleStart": 238,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -42,7 +42,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 225,
+              "duration": 226,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -67,16 +67,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:c20a9e95-d41f-46a5-9229-b5cb113e07a3",
+              "_testId": "urn:uuid:21ede311-fa78-48f1-a67d-8edae8b1cb76",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 449,
+                "_idleStart": 465,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -85,7 +85,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchema."
               },
-              "duration": 225,
+              "duration": 221,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -110,9 +110,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:a94d4b17-bdc5-467a-b702-e74c56258818",
+              "_testId": "urn:uuid:7d0cf381-b022-4540-a975-de5e3c7e284b",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -135,16 +135,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:d30a49f4-6a5c-4eb5-ad0e-3d81fdc1e663",
+              "_testId": "urn:uuid:71092ebf-2320-4174-8983-4a8433a9997c",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 675,
+                "_idleStart": 688,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -153,7 +153,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 256,
+              "duration": 259,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -178,16 +178,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:ac28359e-65a0-44f0-b9eb-1a77a712b93c",
+              "_testId": "urn:uuid:8e9cc521-b0a0-456c-9a55-d1496584c7ab",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 930,
+                "_idleStart": 947,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -196,7 +196,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 219,
+              "duration": 222,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -221,16 +221,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:2c4313a9-7ac6-4957-81ac-c0348bc4711a",
+              "_testId": "urn:uuid:636aea47-bd5c-4bb6-8765-7865b609d610",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1150,
+                "_idleStart": 1169,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -239,7 +239,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 186,
+              "duration": 187,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -264,16 +264,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:c127e674-c03e-4a99-b4d6-22d54772cc69",
+              "_testId": "urn:uuid:042896e2-0e53-472e-9fc2-5cb6b276630b",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1337,
+                "_idleStart": 1356,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -307,16 +307,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "vIbOlkBNhork1yf-fv_c3",
+              "parent": "4MsyEMPu2vAJBQIm4fvCY",
               "ctx": null,
-              "_testId": "urn:uuid:33731375-0ca1-46d2-9781-5c4ec6a5c103",
+              "_testId": "urn:uuid:8ad16da2-5dcd-4ee4-9142-4c3bedf09bc2",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1522,
+                "_idleStart": 1542,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -325,7 +325,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -351,9 +351,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "zlhEjSArZhRzGJHrDcS13",
+          "parent": "N7ieS_Tbmdtn9fYuOGs6l",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "_testId": "urn:uuid:d8c08144-cded-4137-9135-c62cfa56be3a"
+          "_testId": "urn:uuid:07fc6fde-05a6-4bce-a62f-98665276d19a"
         }
       ],
       "tests": [
@@ -370,16 +370,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:2f10963c-59a2-4efd-a0ba-ba214a6adbde",
+          "_testId": "urn:uuid:4178c800-198a-4939-b3f0-e48ca732f624",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 225,
+            "_idleStart": 238,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -388,7 +388,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 225,
+          "duration": 226,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -413,16 +413,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:c20a9e95-d41f-46a5-9229-b5cb113e07a3",
+          "_testId": "urn:uuid:21ede311-fa78-48f1-a67d-8edae8b1cb76",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 449,
+            "_idleStart": 465,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -431,7 +431,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchema."
           },
-          "duration": 225,
+          "duration": 221,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -456,9 +456,9 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:a94d4b17-bdc5-467a-b702-e74c56258818",
+          "_testId": "urn:uuid:7d0cf381-b022-4540-a975-de5e3c7e284b",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -481,16 +481,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:d30a49f4-6a5c-4eb5-ad0e-3d81fdc1e663",
+          "_testId": "urn:uuid:71092ebf-2320-4174-8983-4a8433a9997c",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 675,
+            "_idleStart": 688,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -499,7 +499,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 256,
+          "duration": 259,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -524,16 +524,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:ac28359e-65a0-44f0-b9eb-1a77a712b93c",
+          "_testId": "urn:uuid:8e9cc521-b0a0-456c-9a55-d1496584c7ab",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 930,
+            "_idleStart": 947,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -542,7 +542,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 219,
+          "duration": 222,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -567,16 +567,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:2c4313a9-7ac6-4957-81ac-c0348bc4711a",
+          "_testId": "urn:uuid:636aea47-bd5c-4bb6-8765-7865b609d610",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 1150,
+            "_idleStart": 1169,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -585,7 +585,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 186,
+          "duration": 187,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -610,16 +610,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:c127e674-c03e-4a99-b4d6-22d54772cc69",
+          "_testId": "urn:uuid:042896e2-0e53-472e-9fc2-5cb6b276630b",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 1337,
+            "_idleStart": 1356,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -653,16 +653,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "vIbOlkBNhork1yf-fv_c3",
+          "parent": "4MsyEMPu2vAJBQIm4fvCY",
           "ctx": null,
-          "_testId": "urn:uuid:33731375-0ca1-46d2-9781-5c4ec6a5c103",
+          "_testId": "urn:uuid:8ad16da2-5dcd-4ee4-9142-4c3bedf09bc2",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 1522,
+            "_idleStart": 1542,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -671,7 +671,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -697,7 +697,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "MCoOmFw84B7v0JCQdFUsA",
+      "parent": "-aTFICZ2hXDrGS2J0PA7s",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
       "matrix": true,
       "report": true,
@@ -706,7 +706,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:a0db531d-4c6f-4b86-9e93-7a8e10cf7699"
+      "_testId": "urn:uuid:1b1a5242-fb34-446e-9ce5-5c175bf16740"
     },
     {
       "title": "JsonSchema – JSON Schema 2020-12",
@@ -730,16 +730,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:ef74af23-b355-4308-9b84-44f7a8cda1e0",
+              "_testId": "urn:uuid:5f5b7e90-1f78-4266-b3ae-6d6c5ef40256",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1708,
+                "_idleStart": 1730,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -748,7 +748,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 219,
+              "duration": 222,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -773,16 +773,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:49be9add-37d2-4687-9450-b9cd214438c6",
+              "_testId": "urn:uuid:f75e4900-2201-4c37-959a-ac88c7bd51ca",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1928,
+                "_idleStart": 1951,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -791,7 +791,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchema."
               },
-              "duration": 219,
+              "duration": 220,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -816,9 +816,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:8c8f71fc-2783-4943-a759-50e345eeaee0",
+              "_testId": "urn:uuid:161e4c22-297d-416a-8670-43b54d889d53",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -842,16 +842,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:2c0df72f-ab0b-40b3-8813-5d36588810a6",
+              "_testId": "urn:uuid:28f6aa3c-1671-4902-8d1b-ffe0bc62a892",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2148,
+                "_idleStart": 2174,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -860,7 +860,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 253,
+              "duration": 257,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -885,16 +885,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:e4d1c6ea-2b6b-46a3-aa5d-05cd53db3b53",
+              "_testId": "urn:uuid:e5394c8a-2f29-4c4a-bb55-dfeaf7718f03",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2401,
+                "_idleStart": 2430,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -928,16 +928,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:bc5ce36a-70ea-4394-9744-db295b005147",
+              "_testId": "urn:uuid:9772298f-8268-4e5b-bfff-e1d7889821b0",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2621,
+                "_idleStart": 2650,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -946,7 +946,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -971,16 +971,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:9d03ddd5-0b4b-408b-998b-27cfe511dbd4",
+              "_testId": "urn:uuid:9af0c962-1192-48de-a651-f91bc15021ad",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2807,
+                "_idleStart": 2838,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -989,7 +989,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 187,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1014,16 +1014,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "s8pZVjZ88vv5kNY-dMizA",
+              "parent": "ndqspA_FQnL4hx9UcZ1Rn",
               "ctx": null,
-              "_testId": "urn:uuid:ea76d4ae-ac99-48aa-8f6e-a551298eea1b",
+              "_testId": "urn:uuid:69396b8d-ed14-49c0-a58a-226afd873d4b",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2993,
+                "_idleStart": 3024,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1058,9 +1058,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "Ya1PtzkOt6W2YpzBuafDi",
+          "parent": "UU54z91WsjeZDJoITkanl",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "_testId": "urn:uuid:36d9d33a-ddfa-4f73-8777-5bede937fa9a"
+          "_testId": "urn:uuid:6b7619fa-99b1-4a16-be66-77728e2e532b"
         }
       ],
       "tests": [
@@ -1077,16 +1077,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:ef74af23-b355-4308-9b84-44f7a8cda1e0",
+          "_testId": "urn:uuid:5f5b7e90-1f78-4266-b3ae-6d6c5ef40256",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 1708,
+            "_idleStart": 1730,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1095,7 +1095,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 219,
+          "duration": 222,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1120,16 +1120,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:49be9add-37d2-4687-9450-b9cd214438c6",
+          "_testId": "urn:uuid:f75e4900-2201-4c37-959a-ac88c7bd51ca",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 1928,
+            "_idleStart": 1951,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1138,7 +1138,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchema."
           },
-          "duration": 219,
+          "duration": 220,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1163,9 +1163,9 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:8c8f71fc-2783-4943-a759-50e345eeaee0",
+          "_testId": "urn:uuid:161e4c22-297d-416a-8670-43b54d889d53",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -1189,16 +1189,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:2c0df72f-ab0b-40b3-8813-5d36588810a6",
+          "_testId": "urn:uuid:28f6aa3c-1671-4902-8d1b-ffe0bc62a892",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 2148,
+            "_idleStart": 2174,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1207,7 +1207,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 253,
+          "duration": 257,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1232,16 +1232,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:e4d1c6ea-2b6b-46a3-aa5d-05cd53db3b53",
+          "_testId": "urn:uuid:e5394c8a-2f29-4c4a-bb55-dfeaf7718f03",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 2401,
+            "_idleStart": 2430,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1275,16 +1275,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:bc5ce36a-70ea-4394-9744-db295b005147",
+          "_testId": "urn:uuid:9772298f-8268-4e5b-bfff-e1d7889821b0",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 2621,
+            "_idleStart": 2650,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1293,7 +1293,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1318,16 +1318,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:9d03ddd5-0b4b-408b-998b-27cfe511dbd4",
+          "_testId": "urn:uuid:9af0c962-1192-48de-a651-f91bc15021ad",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 2807,
+            "_idleStart": 2838,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1336,7 +1336,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 187,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1361,16 +1361,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "s8pZVjZ88vv5kNY-dMizA",
+          "parent": "ndqspA_FQnL4hx9UcZ1Rn",
           "ctx": null,
-          "_testId": "urn:uuid:ea76d4ae-ac99-48aa-8f6e-a551298eea1b",
+          "_testId": "urn:uuid:69396b8d-ed14-49c0-a58a-226afd873d4b",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 2993,
+            "_idleStart": 3024,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1405,7 +1405,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "MCoOmFw84B7v0JCQdFUsA",
+      "parent": "-aTFICZ2hXDrGS2J0PA7s",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
       "matrix": true,
       "report": true,
@@ -1414,7 +1414,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:a3c10355-8b52-4827-a2f9-5da723f07918"
+      "_testId": "urn:uuid:01ca64ab-f7d3-44b3-8870-40877cf65795"
     },
     {
       "title": "JsonSchema – JSON Schema Draft-7",
@@ -1438,16 +1438,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:fd6c9993-1ed6-452d-940b-f9d0db8f3b10",
+              "_testId": "urn:uuid:50037894-3e16-4b29-89a7-bd17e0b715a6",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3179,
+                "_idleStart": 3212,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1456,7 +1456,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 219,
+              "duration": 222,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1481,16 +1481,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:8abaae53-e69c-487e-b04e-dc79f7861911",
+              "_testId": "urn:uuid:2c252b42-1ace-4838-9c51-9f7be8ce088c",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3398,
+                "_idleStart": 3434,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1499,7 +1499,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchema."
               },
-              "duration": 219,
+              "duration": 221,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1524,9 +1524,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:a6eda156-7fe9-4092-bdf6-39e2e07bbd9c",
+              "_testId": "urn:uuid:65dc0b72-3d61-4bb3-804f-9c8120f08fac",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1549,16 +1549,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:7896df0e-3e3a-4c6f-9e1a-8e70d560b18b",
+              "_testId": "urn:uuid:fe24e717-575a-4101-9241-e40309bd8f90",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3617,
+                "_idleStart": 3655,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1567,7 +1567,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 253,
+              "duration": 255,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1592,16 +1592,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:ae9d81f8-e2be-4c35-8f68-2b76c0df6fa4",
+              "_testId": "urn:uuid:e63e85f8-ee1b-4bea-9813-b446584dc6cc",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3870,
+                "_idleStart": 3911,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1610,7 +1610,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 217,
+              "duration": 220,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1635,16 +1635,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:06972a88-62d6-4814-a863-6f541e8fe80b",
+              "_testId": "urn:uuid:4fd17d2d-31e5-4945-9b83-8ded86c51e2a",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4089,
+                "_idleStart": 4132,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1653,7 +1653,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1678,16 +1678,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:444802c0-2804-4415-8c6b-49f59dd0cf0c",
+              "_testId": "urn:uuid:ee0ec2bd-e940-4123-8bf6-ec6c6773f933",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4274,
+                "_idleStart": 4318,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1696,7 +1696,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1721,16 +1721,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-              "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+              "parent": "B9ZrHPlG0FqXlc2F86P3b",
               "ctx": null,
-              "_testId": "urn:uuid:b490a071-bed9-493d-b109-f30fd629c21d",
+              "_testId": "urn:uuid:25c12d07-eda5-4751-a4fa-7199995ff5fc",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4460,
+                "_idleStart": 4504,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1739,7 +1739,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -1765,9 +1765,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "P_A6R5UiYM46Wad7BI0NF",
+          "parent": "HJ5TaDHm6Tef_uPEF1wVX",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "_testId": "urn:uuid:62b0cb6d-1037-4ea0-93a0-e2d43d80b76b"
+          "_testId": "urn:uuid:5f977b79-94ea-4e46-8cd3-02b50d1b8e2c"
         }
       ],
       "tests": [
@@ -1784,16 +1784,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:fd6c9993-1ed6-452d-940b-f9d0db8f3b10",
+          "_testId": "urn:uuid:50037894-3e16-4b29-89a7-bd17e0b715a6",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 3179,
+            "_idleStart": 3212,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1802,7 +1802,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 219,
+          "duration": 222,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1827,16 +1827,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:8abaae53-e69c-487e-b04e-dc79f7861911",
+          "_testId": "urn:uuid:2c252b42-1ace-4838-9c51-9f7be8ce088c",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 3398,
+            "_idleStart": 3434,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1845,7 +1845,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchema."
           },
-          "duration": 219,
+          "duration": 221,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1870,9 +1870,9 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:a6eda156-7fe9-4092-bdf6-39e2e07bbd9c",
+          "_testId": "urn:uuid:65dc0b72-3d61-4bb3-804f-9c8120f08fac",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -1895,16 +1895,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:7896df0e-3e3a-4c6f-9e1a-8e70d560b18b",
+          "_testId": "urn:uuid:fe24e717-575a-4101-9241-e40309bd8f90",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 3617,
+            "_idleStart": 3655,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1913,7 +1913,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 253,
+          "duration": 255,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1938,16 +1938,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:ae9d81f8-e2be-4c35-8f68-2b76c0df6fa4",
+          "_testId": "urn:uuid:e63e85f8-ee1b-4bea-9813-b446584dc6cc",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 3870,
+            "_idleStart": 3911,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1956,7 +1956,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 217,
+          "duration": 220,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -1981,16 +1981,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:06972a88-62d6-4814-a863-6f541e8fe80b",
+          "_testId": "urn:uuid:4fd17d2d-31e5-4945-9b83-8ded86c51e2a",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 4089,
+            "_idleStart": 4132,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1999,7 +1999,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -2024,16 +2024,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:444802c0-2804-4415-8c6b-49f59dd0cf0c",
+          "_testId": "urn:uuid:ee0ec2bd-e940-4123-8bf6-ec6c6773f933",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 4274,
+            "_idleStart": 4318,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2042,7 +2042,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -2067,16 +2067,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
-          "parent": "gy8j1w7ujcnZzwo4Qb3Rj",
+          "parent": "B9ZrHPlG0FqXlc2F86P3b",
           "ctx": null,
-          "_testId": "urn:uuid:b490a071-bed9-493d-b109-f30fd629c21d",
+          "_testId": "urn:uuid:25c12d07-eda5-4751-a4fa-7199995ff5fc",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 4460,
+            "_idleStart": 4504,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2085,7 +2085,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -2111,7 +2111,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "MCoOmFw84B7v0JCQdFUsA",
+      "parent": "-aTFICZ2hXDrGS2J0PA7s",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschema.js",
       "matrix": true,
       "report": true,
@@ -2120,7 +2120,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:985caa32-4e2b-40c1-8d54-5a288205cc1f"
+      "_testId": "urn:uuid:0726f352-2749-4fe4-b443-738676db280d"
     },
     {
       "title": "JsonSchemaCredential – JSON Schema 2019-09",
@@ -2144,16 +2144,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:c45f61cc-d2ce-44ec-a073-5e3305ded03c",
+              "_testId": "urn:uuid:40d1d597-7e7f-4f3c-88a0-4ca71adc9fe3",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4646,
+                "_idleStart": 4692,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2162,7 +2162,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 218,
+              "duration": 225,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -2187,16 +2187,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:31c208d8-1526-4da7-8ea4-38d13d5a2803",
+              "_testId": "urn:uuid:edf86363-4393-41c2-ad53-ee1abd9fdf5c",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4864,
+                "_idleStart": 4916,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2205,7 +2205,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchemaCredential."
               },
-              "duration": 222,
+              "duration": 221,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -2230,16 +2230,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:08912ad0-7cda-4fc3-b938-cc3594ce47df",
+              "_testId": "urn:uuid:01136552-262c-4639-bf36-7522772dd319",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5088,
+                "_idleStart": 5138,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2248,7 +2248,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
               },
-              "duration": 285,
+              "duration": 289,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -2273,16 +2273,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:58f9e691-e0ed-44cb-9be6-c9f67609a989",
+              "_testId": "urn:uuid:d5954576-787c-45ec-8286-4d9966176c51",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5373,
+                "_idleStart": 5427,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2291,7 +2291,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
               },
-              "duration": 219,
+              "duration": 220,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -2316,9 +2316,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:e537be7f-7d35-431b-b658-efdceaa6961c",
+              "_testId": "urn:uuid:ab91064f-fc3e-4021-8d63-ee52f6e6b760",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2329,12 +2329,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5558,
+                "_idleStart": 5613,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "pending"
             },
             {
@@ -2350,16 +2350,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:e038f1dc-4831-4e62-b577-0f9230ddf51c",
+              "_testId": "urn:uuid:99659fcb-b119-421e-a0f9-9fcd30aff30e",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5592,
+                "_idleStart": 5649,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2368,7 +2368,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 252,
+              "duration": 255,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -2393,16 +2393,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:14cf5d93-1174-4ed1-8bce-9a6d46d7932d",
+              "_testId": "urn:uuid:521b3a8f-e676-41cd-9c08-8d5ce93ac8b1",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5845,
+                "_idleStart": 5905,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2411,7 +2411,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 218,
+              "duration": 222,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -2436,913 +2436,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:e248e220-496f-4c9c-b8a6-d24c16b763fa",
+              "_testId": "urn:uuid:222c185d-102d-4c3d-a766-abbffeb57411",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6065,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
-              },
-              "duration": 185,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:83:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
-              "ctx": null,
-              "_testId": "urn:uuid:ae056c4e-1be9-40c1-ae77-d627b57f6b0d",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 6251,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
-              },
-              "duration": 185,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:90:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "bpOES2QIxwqQb2FA6B50U",
-              "ctx": null,
-              "_testId": "urn:uuid:4fee0e39-f8ed-47c4-8ab8-7e84facae97c",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 6435,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
-              },
-              "duration": 185,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:97:18)"
-              }
-            }
-          ],
-          "root": false,
-          "pending": false,
-          "_retries": -1,
-          "_beforeEach": [],
-          "_beforeAll": [],
-          "_afterEach": [],
-          "_afterAll": [],
-          "_timeout": 150000,
-          "_slow": 75,
-          "_bail": false,
-          "_onlyTests": [],
-          "_onlySuites": [],
-          "delayed": false,
-          "parent": "xrxo8iZvVyc796wk2WE7G",
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "_testId": "urn:uuid:56a88fdf-bac7-4a16-8ea2-beb934fce15f"
-        }
-      ],
-      "tests": [
-        {
-          "type": "test",
-          "title": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:c45f61cc-d2ce-44ec-a073-5e3305ded03c",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 4646,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
-          },
-          "duration": 218,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:31:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "2.1 The type property MUST be JsonSchemaCredential.",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:31c208d8-1526-4da7-8ea4-38d13d5a2803",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 4864,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "2.1 The type property MUST be JsonSchemaCredential."
-          },
-          "duration": 222,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:38:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:08912ad0-7cda-4fc3-b938-cc3594ce47df",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 5088,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
-          },
-          "duration": 285,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:45:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:58f9e691-e0ed-44cb-9be6-c9f67609a989",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 5373,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
-          },
-          "duration": 219,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:52:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes",
-          "body": "async function() {\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          if (schemaVersionName === JsonSchemaVersions['202012']) {\n            should.equal(true, true);\n          } else {\n            this.skip();\n          }\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": true,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:e537be7f-7d35-431b-b658-efdceaa6961c",
-          "_events": {},
-          "_eventsCount": 1,
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes"
-          },
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 5558,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "duration": 0,
-          "state": "pending"
-        },
-        {
-          "type": "test",
-          "title": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:e038f1dc-4831-4e62-b577-0f9230ddf51c",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 5592,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
-          },
-          "duration": 252,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:68:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "3.1.2, 4 The $schema property MUST be present in each schema",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:14cf5d93-1174-4ed1-8bce-9a6d46d7932d",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 5845,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
-          },
-          "duration": 218,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:76:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:e248e220-496f-4c9c-b8a6-d24c16b763fa",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 6065,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
-          },
-          "duration": 185,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:83:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:ae056c4e-1be9-40c1-ae77-d627b57f6b0d",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 6251,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
-          },
-          "duration": 185,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:90:18)"
-          }
-        },
-        {
-          "type": "test",
-          "title": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
-          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-          "async": 0,
-          "sync": true,
-          "_timeout": 150000,
-          "_slow": 75,
-          "_retries": -1,
-          "timedOut": false,
-          "_currentRetry": 0,
-          "pending": false,
-          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "bpOES2QIxwqQb2FA6B50U",
-          "ctx": null,
-          "_testId": "urn:uuid:4fee0e39-f8ed-47c4-8ab8-7e84facae97c",
-          "_events": {},
-          "_eventsCount": 1,
-          "timer": {
-            "_idleTimeout": -1,
-            "_idlePrev": null,
-            "_idleNext": null,
-            "_idleStart": 6435,
-            "_onTimeout": null,
-            "_repeat": null,
-            "_destroyed": true
-          },
-          "cell": {
-            "columnId": "tbd",
-            "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
-          },
-          "duration": 185,
-          "state": "failed",
-          "err": {
-            "name": "AssertionError",
-            "message": "expected 'error' to equal 'success'",
-            "showDiff": true,
-            "actual": "error",
-            "expected": "success",
-            "operator": "strictEqual",
-            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:97:18)"
-          }
-        }
-      ],
-      "root": false,
-      "pending": false,
-      "_retries": -1,
-      "_beforeEach": [],
-      "_beforeAll": [],
-      "_afterEach": [],
-      "_afterAll": [],
-      "_timeout": 150000,
-      "_slow": 75,
-      "_bail": false,
-      "_onlyTests": [],
-      "_onlySuites": [],
-      "delayed": false,
-      "parent": "MCoOmFw84B7v0JCQdFUsA",
-      "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-      "matrix": true,
-      "report": true,
-      "implemented": [
-        "tbd"
-      ],
-      "rowLabel": "Test Name",
-      "columnLabel": "Implementation",
-      "_testId": "urn:uuid:7a46e3bc-ed3d-4690-8925-69df70191aa6"
-    },
-    {
-      "title": "JsonSchemaCredential – JSON Schema 2020-12",
-      "ctx": null,
-      "suites": [
-        {
-          "title": "tbd",
-          "ctx": null,
-          "suites": [],
-          "tests": [
-            {
-              "type": "test",
-              "title": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:bde600be-384b-476a-b9f7-74330240ea80",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 6622,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
-              },
-              "duration": 219,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:31:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "2.1 The type property MUST be JsonSchemaCredential.",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:337a2234-02db-4482-8a56-65bf5e6249e9",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 6841,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "2.1 The type property MUST be JsonSchemaCredential."
-              },
-              "duration": 220,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:38:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:8559d0be-ce5e-4977-b3d7-fccc2fa7156c",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 7061,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
-              },
-              "duration": 286,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:45:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:4feeb684-2b2b-495d-9386-c4e9feff4235",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 7347,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
-              },
-              "duration": 218,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:52:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes",
-              "body": "async function() {\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          if (schemaVersionName === JsonSchemaVersions['202012']) {\n            should.equal(true, true);\n          } else {\n            this.skip();\n          }\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:7dd583dd-230b-45ef-a7ac-a2bb2d8dfbff",
-              "_events": {},
-              "_eventsCount": 1,
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes"
-              },
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 7531,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "duration": 0,
-              "state": "passed",
-              "speed": "fast"
-            },
-            {
-              "type": "test",
-              "title": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:1dc4de0b-35bf-4c47-b743-2b1a15260d55",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 7566,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
-              },
-              "duration": 254,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:68:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "3.1.2, 4 The $schema property MUST be present in each schema",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:a0224902-ed97-408c-bf89-11eb7a0772c1",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 7820,
-                "_onTimeout": null,
-                "_repeat": null,
-                "_destroyed": true
-              },
-              "cell": {
-                "columnId": "tbd",
-                "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
-              },
-              "duration": 219,
-              "state": "failed",
-              "err": {
-                "name": "AssertionError",
-                "message": "expected 'error' to equal 'success'",
-                "showDiff": true,
-                "actual": "error",
-                "expected": "success",
-                "operator": "strictEqual",
-                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:76:18)"
-              }
-            },
-            {
-              "type": "test",
-              "title": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
-              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
-              "async": 0,
-              "sync": true,
-              "_timeout": 150000,
-              "_slow": 75,
-              "_retries": -1,
-              "timedOut": false,
-              "_currentRetry": 0,
-              "pending": false,
-              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
-              "ctx": null,
-              "_testId": "urn:uuid:e4e94f49-fafd-4a0b-a29f-ebd85116d891",
-              "_events": {},
-              "_eventsCount": 1,
-              "timer": {
-                "_idleTimeout": -1,
-                "_idlePrev": null,
-                "_idleNext": null,
-                "_idleStart": 8039,
+                "_idleStart": 6127,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3376,16 +2479,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:ae1725b4-a5c1-43ed-8695-604c4394065f",
+              "_testId": "urn:uuid:4b1a2451-6990-48ea-8cdc-f47eb977ac66",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8225,
+                "_idleStart": 6313,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3419,16 +2522,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "niuXxmPwCn5lJhWB8UoH7",
+              "parent": "3N211RJoZtIWTXeV8sxG0",
               "ctx": null,
-              "_testId": "urn:uuid:fdeb62f0-31a8-447f-813a-35f51bc7ba84",
+              "_testId": "urn:uuid:fe81baaa-5ed3-4988-9ca2-a66f5fe6ae6c",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8411,
+                "_idleStart": 6499,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3437,7 +2540,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -3463,9 +2566,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "CHI5dCQ6usimNevhYnTQX",
+          "parent": "3yRgKoB7CgU-wxg83eadK",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "_testId": "urn:uuid:f0c68bf1-8088-4bfe-8629-d350c636122f"
+          "_testId": "urn:uuid:1d968f44-a6ec-4277-bc55-641ce5cfd166"
         }
       ],
       "tests": [
@@ -3482,16 +2585,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:bde600be-384b-476a-b9f7-74330240ea80",
+          "_testId": "urn:uuid:40d1d597-7e7f-4f3c-88a0-4ca71adc9fe3",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 6622,
+            "_idleStart": 4692,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3500,7 +2603,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 219,
+          "duration": 225,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -3525,16 +2628,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:337a2234-02db-4482-8a56-65bf5e6249e9",
+          "_testId": "urn:uuid:edf86363-4393-41c2-ad53-ee1abd9fdf5c",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 6841,
+            "_idleStart": 4916,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3543,7 +2646,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchemaCredential."
           },
-          "duration": 220,
+          "duration": 221,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -3568,16 +2671,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:8559d0be-ce5e-4977-b3d7-fccc2fa7156c",
+          "_testId": "urn:uuid:01136552-262c-4639-bf36-7522772dd319",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 7061,
+            "_idleStart": 5138,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3586,7 +2689,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
           },
-          "duration": 286,
+          "duration": 289,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -3611,16 +2714,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:4feeb684-2b2b-495d-9386-c4e9feff4235",
+          "_testId": "urn:uuid:d5954576-787c-45ec-8286-4d9966176c51",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 7347,
+            "_idleStart": 5427,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3629,7 +2732,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
           },
-          "duration": 218,
+          "duration": 220,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -3652,11 +2755,11 @@
           "_retries": -1,
           "timedOut": false,
           "_currentRetry": 0,
-          "pending": false,
+          "pending": true,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:7dd583dd-230b-45ef-a7ac-a2bb2d8dfbff",
+          "_testId": "urn:uuid:ab91064f-fc3e-4021-8d63-ee52f6e6b760",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -3667,14 +2770,13 @@
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 7531,
+            "_idleStart": 5613,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
           },
-          "duration": 0,
-          "state": "passed",
-          "speed": "fast"
+          "duration": 1,
+          "state": "pending"
         },
         {
           "type": "test",
@@ -3689,16 +2791,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:1dc4de0b-35bf-4c47-b743-2b1a15260d55",
+          "_testId": "urn:uuid:99659fcb-b119-421e-a0f9-9fcd30aff30e",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 7566,
+            "_idleStart": 5649,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3707,7 +2809,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 254,
+          "duration": 255,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -3732,16 +2834,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:a0224902-ed97-408c-bf89-11eb7a0772c1",
+          "_testId": "urn:uuid:521b3a8f-e676-41cd-9c08-8d5ce93ac8b1",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 7820,
+            "_idleStart": 5905,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3750,7 +2852,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 219,
+          "duration": 222,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -3775,16 +2877,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:e4e94f49-fafd-4a0b-a29f-ebd85116d891",
+          "_testId": "urn:uuid:222c185d-102d-4c3d-a766-abbffeb57411",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 8039,
+            "_idleStart": 6127,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3818,16 +2920,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:ae1725b4-a5c1-43ed-8695-604c4394065f",
+          "_testId": "urn:uuid:4b1a2451-6990-48ea-8cdc-f47eb977ac66",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 8225,
+            "_idleStart": 6313,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3861,16 +2963,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "niuXxmPwCn5lJhWB8UoH7",
+          "parent": "3N211RJoZtIWTXeV8sxG0",
           "ctx": null,
-          "_testId": "urn:uuid:fdeb62f0-31a8-447f-813a-35f51bc7ba84",
+          "_testId": "urn:uuid:fe81baaa-5ed3-4988-9ca2-a66f5fe6ae6c",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 8411,
+            "_idleStart": 6499,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3879,7 +2981,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -3905,7 +3007,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "MCoOmFw84B7v0JCQdFUsA",
+      "parent": "-aTFICZ2hXDrGS2J0PA7s",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
       "matrix": true,
       "report": true,
@@ -3914,10 +3016,10 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:f9d24a9c-d4d7-4c40-92e4-380186cc9bed"
+      "_testId": "urn:uuid:f5b8d61a-01b9-438c-827d-e67de51572ed"
     },
     {
-      "title": "JsonSchemaCredential – JSON Schema Draft-7",
+      "title": "JsonSchemaCredential – JSON Schema 2020-12",
       "ctx": null,
       "suites": [
         {
@@ -3938,16 +3040,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:01a2f255-f821-4e30-af2c-ebb343a1d6d8",
+              "_testId": "urn:uuid:6d258ec1-db57-44c8-907a-f4a81b61935c",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8596,
+                "_idleStart": 6686,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3956,7 +3058,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
               },
-              "duration": 219,
+              "duration": 221,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -3981,16 +3083,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:d534bb74-8a00-4fd5-8517-ed039ddc33cf",
+              "_testId": "urn:uuid:639f0286-3de8-461f-a040-fa38ec7f7d9a",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8816,
+                "_idleStart": 6909,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3999,7 +3101,7 @@
                 "columnId": "tbd",
                 "rowId": "2.1 The type property MUST be JsonSchemaCredential."
               },
-              "duration": 220,
+              "duration": 223,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -4024,16 +3126,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:cbbc49b8-d799-4632-93a7-803a199ddf2e",
+              "_testId": "urn:uuid:86f28754-312b-431e-a5f7-75e3aafa0187",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9036,
+                "_idleStart": 7130,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4042,7 +3144,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
               },
-              "duration": 286,
+              "duration": 291,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -4067,16 +3169,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:8b63214b-4b3c-44d9-9df4-27249913eecd",
+              "_testId": "urn:uuid:8eb3d386-c8e0-421d-aeac-1fe2b2941084",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9321,
+                "_idleStart": 7421,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4085,7 +3187,7 @@
                 "columnId": "tbd",
                 "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
               },
-              "duration": 219,
+              "duration": 220,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -4108,11 +3210,11 @@
               "_retries": -1,
               "timedOut": false,
               "_currentRetry": 0,
-              "pending": true,
+              "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:01a80ae2-ca5c-452e-a802-50d399c38ab7",
+              "_testId": "urn:uuid:5faccd5a-04a2-448f-96d7-55b46a96449c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4123,13 +3225,14 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9506,
+                "_idleStart": 7607,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "duration": 0,
-              "state": "pending"
+              "state": "passed",
+              "speed": "fast"
             },
             {
               "type": "test",
@@ -4144,16 +3247,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:d3dc8f3b-d380-4652-9346-3f774a28f4a0",
+              "_testId": "urn:uuid:6fa0c22b-888a-4a52-aa40-676610c542a1",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9541,
+                "_idleStart": 7642,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4162,7 +3265,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
               },
-              "duration": 253,
+              "duration": 256,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -4187,16 +3290,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:378c4c5e-b3b2-46b3-957f-f68fd11ea697",
+              "_testId": "urn:uuid:ee575f84-2cd7-431a-9e1a-687c0080102f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9794,
+                "_idleStart": 7899,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4205,7 +3308,7 @@
                 "columnId": "tbd",
                 "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
               },
-              "duration": 219,
+              "duration": 222,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -4230,16 +3333,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:0ba09b0c-0623-4a0a-bd40-89cd3d8e5fbd",
+              "_testId": "urn:uuid:1444dbfc-5f7b-4172-a127-7076fafb76d3",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10017,
+                "_idleStart": 8122,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4273,16 +3376,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:e3c24638-c07a-4a94-953c-5903f49de9bc",
+              "_testId": "urn:uuid:22eeb5c5-3776-4e8e-a634-a7fba8eb4769",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10202,
+                "_idleStart": 8309,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4291,7 +3394,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 184,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -4316,16 +3419,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-              "parent": "-U6GLADPzOD0by6V_pifY",
+              "parent": "f--vjj4pse3Ed5emmLixA",
               "ctx": null,
-              "_testId": "urn:uuid:7e41a5f8-8cac-400e-9884-589f8e67b0c3",
+              "_testId": "urn:uuid:66ed4a91-a16d-4cb4-aeb5-b321d9ed5553",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10388,
+                "_idleStart": 8495,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4334,7 +3437,7 @@
                 "columnId": "tbd",
                 "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
               },
-              "duration": 185,
+              "duration": 186,
               "state": "failed",
               "err": {
                 "name": "AssertionError",
@@ -4360,9 +3463,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "kpsQDdEBDdaJSLYjREKEx",
+          "parent": "1aw6Kqob78JFQJelIBuJM",
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "_testId": "urn:uuid:e96a9609-1525-431a-84de-3f06bcb3e567"
+          "_testId": "urn:uuid:38423bdd-099c-4958-99e3-6bad59587252"
         }
       ],
       "tests": [
@@ -4379,16 +3482,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:01a2f255-f821-4e30-af2c-ebb343a1d6d8",
+          "_testId": "urn:uuid:6d258ec1-db57-44c8-907a-f4a81b61935c",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 8596,
+            "_idleStart": 6686,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4397,7 +3500,7 @@
             "columnId": "tbd",
             "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
           },
-          "duration": 219,
+          "duration": 221,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4422,16 +3525,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:d534bb74-8a00-4fd5-8517-ed039ddc33cf",
+          "_testId": "urn:uuid:639f0286-3de8-461f-a040-fa38ec7f7d9a",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 8816,
+            "_idleStart": 6909,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4440,7 +3543,7 @@
             "columnId": "tbd",
             "rowId": "2.1 The type property MUST be JsonSchemaCredential."
           },
-          "duration": 220,
+          "duration": 223,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4465,16 +3568,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:cbbc49b8-d799-4632-93a7-803a199ddf2e",
+          "_testId": "urn:uuid:86f28754-312b-431e-a5f7-75e3aafa0187",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 9036,
+            "_idleStart": 7130,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4483,7 +3586,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
           },
-          "duration": 286,
+          "duration": 291,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4508,16 +3611,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:8b63214b-4b3c-44d9-9df4-27249913eecd",
+          "_testId": "urn:uuid:8eb3d386-c8e0-421d-aeac-1fe2b2941084",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 9321,
+            "_idleStart": 7421,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4526,7 +3629,7 @@
             "columnId": "tbd",
             "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
           },
-          "duration": 219,
+          "duration": 220,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4549,11 +3652,11 @@
           "_retries": -1,
           "timedOut": false,
           "_currentRetry": 0,
-          "pending": true,
+          "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:01a80ae2-ca5c-452e-a802-50d399c38ab7",
+          "_testId": "urn:uuid:5faccd5a-04a2-448f-96d7-55b46a96449c",
           "_events": {},
           "_eventsCount": 1,
           "cell": {
@@ -4564,13 +3667,14 @@
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 9506,
+            "_idleStart": 7607,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
           },
           "duration": 0,
-          "state": "pending"
+          "state": "passed",
+          "speed": "fast"
         },
         {
           "type": "test",
@@ -4585,16 +3689,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:d3dc8f3b-d380-4652-9346-3f774a28f4a0",
+          "_testId": "urn:uuid:6fa0c22b-888a-4a52-aa40-676610c542a1",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 9541,
+            "_idleStart": 7642,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4603,7 +3707,7 @@
             "columnId": "tbd",
             "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
           },
-          "duration": 253,
+          "duration": 256,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4628,16 +3732,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:378c4c5e-b3b2-46b3-957f-f68fd11ea697",
+          "_testId": "urn:uuid:ee575f84-2cd7-431a-9e1a-687c0080102f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 9794,
+            "_idleStart": 7899,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4646,7 +3750,7 @@
             "columnId": "tbd",
             "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
           },
-          "duration": 219,
+          "duration": 222,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4671,16 +3775,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:0ba09b0c-0623-4a0a-bd40-89cd3d8e5fbd",
+          "_testId": "urn:uuid:1444dbfc-5f7b-4172-a127-7076fafb76d3",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 10017,
+            "_idleStart": 8122,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4714,16 +3818,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:e3c24638-c07a-4a94-953c-5903f49de9bc",
+          "_testId": "urn:uuid:22eeb5c5-3776-4e8e-a634-a7fba8eb4769",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 10202,
+            "_idleStart": 8309,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4732,7 +3836,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 184,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4757,16 +3861,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
-          "parent": "-U6GLADPzOD0by6V_pifY",
+          "parent": "f--vjj4pse3Ed5emmLixA",
           "ctx": null,
-          "_testId": "urn:uuid:7e41a5f8-8cac-400e-9884-589f8e67b0c3",
+          "_testId": "urn:uuid:66ed4a91-a16d-4cb4-aeb5-b321d9ed5553",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 10388,
+            "_idleStart": 8495,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4775,7 +3879,7 @@
             "columnId": "tbd",
             "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
           },
-          "duration": 185,
+          "duration": 186,
           "state": "failed",
           "err": {
             "name": "AssertionError",
@@ -4801,7 +3905,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "MCoOmFw84B7v0JCQdFUsA",
+      "parent": "-aTFICZ2hXDrGS2J0PA7s",
       "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
       "matrix": true,
       "report": true,
@@ -4810,7 +3914,903 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:4f4d7481-3daa-4769-80f2-47df6164d9ce"
+      "_testId": "urn:uuid:83790d42-a0bb-4b44-868b-ebd7d8463dfa"
+    },
+    {
+      "title": "JsonSchemaCredential – JSON Schema Draft-7",
+      "ctx": null,
+      "suites": [
+        {
+          "title": "tbd",
+          "ctx": null,
+          "suites": [],
+          "tests": [
+            {
+              "type": "test",
+              "title": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:d203d6fa-ae9c-411d-a46a-a57edc730bc1",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 8682,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
+              },
+              "duration": 222,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:31:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "2.1 The type property MUST be JsonSchemaCredential.",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:dba20fab-bf74-487d-b2b9-128fa1c70732",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 8906,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "2.1 The type property MUST be JsonSchemaCredential."
+              },
+              "duration": 223,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:38:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:fe92b6b4-b43f-47a1-8b68-42f2f4b1960d",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 9128,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
+              },
+              "duration": 290,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:45:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:c16ed7b1-afc3-4efb-ad9e-f7be097e39a9",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 9418,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
+              },
+              "duration": 221,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:52:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes",
+              "body": "async function() {\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          if (schemaVersionName === JsonSchemaVersions['202012']) {\n            should.equal(true, true);\n          } else {\n            this.skip();\n          }\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": true,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:a43ec708-149a-4b60-917e-46b56d448dbc",
+              "_events": {},
+              "_eventsCount": 1,
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes"
+              },
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 9604,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "duration": 0,
+              "state": "pending"
+            },
+            {
+              "type": "test",
+              "title": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:8d7acbbc-3ae8-460c-9e4e-ea4dd735371b",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 9639,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
+              },
+              "duration": 256,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:68:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "3.1.2, 4 The $schema property MUST be present in each schema",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:bdd56e0e-35cf-466e-87a5-27c5dbb05c86",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 9896,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
+              },
+              "duration": 222,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:76:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:01461351-5c2b-4883-b45e-5b187470d44e",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 10117,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
+              },
+              "duration": 185,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:83:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:42cbaab1-6e2a-4aa9-8af4-5631b931cb2f",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 10303,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
+              },
+              "duration": 186,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:90:18)"
+              }
+            },
+            {
+              "type": "test",
+              "title": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
+              "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+              "async": 0,
+              "sync": true,
+              "_timeout": 150000,
+              "_slow": 75,
+              "_retries": -1,
+              "timedOut": false,
+              "_currentRetry": 0,
+              "pending": false,
+              "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+              "parent": "ikqu7gWGwd1XpPGGSfb7i",
+              "ctx": null,
+              "_testId": "urn:uuid:fd3d425b-dd44-4722-b9e5-2bf4443faf73",
+              "_events": {},
+              "_eventsCount": 1,
+              "timer": {
+                "_idleTimeout": -1,
+                "_idlePrev": null,
+                "_idleNext": null,
+                "_idleStart": 10489,
+                "_onTimeout": null,
+                "_repeat": null,
+                "_destroyed": true
+              },
+              "cell": {
+                "columnId": "tbd",
+                "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
+              },
+              "duration": 186,
+              "state": "failed",
+              "err": {
+                "name": "AssertionError",
+                "message": "expected 'error' to equal 'success'",
+                "showDiff": true,
+                "actual": "error",
+                "expected": "success",
+                "operator": "strictEqual",
+                "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:97:18)"
+              }
+            }
+          ],
+          "root": false,
+          "pending": false,
+          "_retries": -1,
+          "_beforeEach": [],
+          "_beforeAll": [],
+          "_afterEach": [],
+          "_afterAll": [],
+          "_timeout": 150000,
+          "_slow": 75,
+          "_bail": false,
+          "_onlyTests": [],
+          "_onlySuites": [],
+          "delayed": false,
+          "parent": "kHCfmfacNUiv6weT3RNho",
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "_testId": "urn:uuid:e6cc5621-17d4-43c9-b81c-006e9a4c23da"
+        }
+      ],
+      "tests": [
+        {
+          "type": "test",
+          "title": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential.",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:d203d6fa-ae9c-411d-a46a-a57edc730bc1",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 8682,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "2.1 ID - The value MUST be a URL that identifies the schema associated with the verifiable credential."
+          },
+          "duration": 222,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:31:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "2.1 The type property MUST be JsonSchemaCredential.",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:dba20fab-bf74-487d-b2b9-128fa1c70732",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 8906,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "2.1 The type property MUST be JsonSchemaCredential."
+          },
+          "duration": 223,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:38:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:fe92b6b4-b43f-47a1-8b68-42f2f4b1960d",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 9128,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "2.2 The credentialSubject property MUST contain two properties: type - the value of which MUST be JsonSchema; jsonSchema - an object which contains a valid JSON Schema"
+          },
+          "duration": 290,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:45:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:c16ed7b1-afc3-4efb-ad9e-f7be097e39a9",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 9418,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "2.2 The value of the credentialSchema property MUST always be set to [known json schema]"
+          },
+          "duration": 221,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:52:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes",
+          "body": "async function() {\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          if (schemaVersionName === JsonSchemaVersions['202012']) {\n            should.equal(true, true);\n          } else {\n            this.skip();\n          }\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": true,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:a43ec708-149a-4b60-917e-46b56d448dbc",
+          "_events": {},
+          "_eventsCount": 1,
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "3 Implementers MUST provide support for JSON Schema specifications where, in the following table, the required column's value is yes"
+          },
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 9604,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "duration": 0,
+          "state": "pending"
+        },
+        {
+          "type": "test",
+          "title": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:8d7acbbc-3ae8-460c-9e4e-ea4dd735371b",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 9639,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "3.1.1 The $id MUST be present and its value MUST represent a valid URI-reference"
+          },
+          "duration": 256,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:68:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "3.1.2, 4 The $schema property MUST be present in each schema",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:bdd56e0e-35cf-466e-87a5-27c5dbb05c86",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 9896,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "3.1.2, 4 The $schema property MUST be present in each schema"
+          },
+          "duration": 222,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:76:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:01461351-5c2b-4883-b45e-5b187470d44e",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 10117,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "4.2 (Success) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
+          },
+          "duration": 185,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:83:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:42cbaab1-6e2a-4aa9-8af4-5631b931cb2f",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 10303,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "4.2 (Failure) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
+          },
+          "duration": 186,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:90:18)"
+          }
+        },
+        {
+          "type": "test",
+          "title": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate.",
+          "body": "async function() {\n          await generateTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          this.test.cell = {columnId: i.name, rowId: this.test.title};\n          const result = await checkTestResults(i.name, schemaVersionName, jsonSchemaType, this.test.title);\n          should.equal(result, TestResult.success);\n        }",
+          "async": 0,
+          "sync": true,
+          "_timeout": 150000,
+          "_slow": 75,
+          "_retries": -1,
+          "timedOut": false,
+          "_currentRetry": 0,
+          "pending": false,
+          "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+          "parent": "ikqu7gWGwd1XpPGGSfb7i",
+          "ctx": null,
+          "_testId": "urn:uuid:fd3d425b-dd44-4722-b9e5-2bf4443faf73",
+          "_events": {},
+          "_eventsCount": 1,
+          "timer": {
+            "_idleTimeout": -1,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 10489,
+            "_onTimeout": null,
+            "_repeat": null,
+            "_destroyed": true
+          },
+          "cell": {
+            "columnId": "tbd",
+            "rowId": "4.2 (Indeterminate) Validation MUST result in one of the following three possible outcomes: success, failure, or indeterminate."
+          },
+          "duration": 186,
+          "state": "failed",
+          "err": {
+            "name": "AssertionError",
+            "message": "expected 'error' to equal 'success'",
+            "showDiff": true,
+            "actual": "error",
+            "expected": "success",
+            "operator": "strictEqual",
+            "stack": "AssertionError: expected 'error' to equal 'success'\n    at should.equal (node_modules/chai/lib/chai/interface/should.js:98:35)\n    at Context.<anonymous> (file:///home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js:97:18)"
+          }
+        }
+      ],
+      "root": false,
+      "pending": false,
+      "_retries": -1,
+      "_beforeEach": [],
+      "_beforeAll": [],
+      "_afterEach": [],
+      "_afterAll": [],
+      "_timeout": 150000,
+      "_slow": 75,
+      "_bail": false,
+      "_onlyTests": [],
+      "_onlySuites": [],
+      "delayed": false,
+      "parent": "-aTFICZ2hXDrGS2J0PA7s",
+      "file": "/home/runner/work/vc-json-schema-test-suite/vc-json-schema-test-suite/tests/jsonschemacredential.js",
+      "matrix": true,
+      "report": true,
+      "implemented": [
+        "tbd"
+      ],
+      "rowLabel": "Test Name",
+      "columnLabel": "Implementation",
+      "_testId": "urn:uuid:b084cc8a-b4bd-43d2-9400-4781d8703df6"
     }
   ],
   "tests": [],
@@ -4834,5 +4834,5 @@
     ]
   },
   "_eventsCount": 1,
-  "_testId": "urn:uuid:5b675346-cc8b-47a3-80d8-7fd2fcc20f2c"
+  "_testId": "urn:uuid:d9c3c86f-def4-4830-825e-2ea230962ad0"
 }
